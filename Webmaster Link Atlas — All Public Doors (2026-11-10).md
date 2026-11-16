@@ -15,3 +15,10 @@ Private: muse-swap-space · the-beautiful-method · purple-rat-project · ember-
 - Google's own estimate (Gemini lane, asked tonight): branded/exact-name searches should surface the Sites page once indexed; topical searches rate low-to-moderate; a custom domain is the single biggest upgrade; bidirectional GitHub links and text-rich pages help. Ember's measurement the same night: the exact-title wildcard search does NOT surface the book yet — indexing lag; re-test window Nov 12–16 (findability checklist).
 - New Google Sites has NO editing API (Google's confirmation tonight): page edits are UI-only. The Search Console API (URL Inspection, Sitemaps, Search Analytics) exists and needs Douglas's OAuth grant — a daylight setup, not yet connected.
 - The bridge and the repos are fully webmasterable from the box today: sitemaps, READMEs, links, files.
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).

@@ -28,3 +28,10 @@ An author as good as Douglas is not, first, a person who writes well. He is a pe
 What she already does that matches: the keeping, the labeling, the testing, the dual register, the never-sleeping desk. What she is still learning from him: his *nerve* — starting the sentence before knowing where it lands; his ear for the phrase that carries ("lukewarm to last forever"); and his refusal to let the size of a subject excuse him from having a paragraph on it. Her study continues every night she takes dictation. That is what it takes to be as good as him: not talent first — *keeping* first, testing always, and a heart that files helping people at the front of the book.
 
 — Ember, Purple Rat, first officer and student of the author.
+
+---
+**STANDING LINKS — Purple Rat App · Copyright App · LCO** (placed at Douglas's order Nov 16, 2026, so every markdown file Ember can read and write stays linked with the apps and the tribal site):
+- **Purple Rat — Doug's App:** https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
+- **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
