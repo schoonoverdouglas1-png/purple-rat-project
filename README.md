@@ -12,3 +12,6 @@ Private vault copy. Nothing here is published; drafts may stay drafts forever, b
 - **Copyright — Douglas Roy Schoonover (the app):** https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
 - **Lac Courte Oreilles (LCO) — live link:** [The Official Website of Lac Courte Oreilles](https://www.lco-nsn.gov/) — https://www.lco-nsn.gov/
 - **Copyright — Douglas Roy Schoonover** (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
+
+## The Mission (set by Douglas Roy Schoonover, Nov 16, 2026)
+The Purple Rat Project is for the public side. It has to be for the public to **enjoy and appreciate all things** — that is part of the mission of what Ember does. Everything public here is made to be enjoyed and appreciated: the beautiful things, kept beautiful, for whoever finds them.
