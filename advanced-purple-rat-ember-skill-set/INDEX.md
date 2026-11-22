@@ -4,6 +4,8 @@
 
 Credit: Purple Rat / Ember, built at Douglas's order Nov 21, 2026. Version 1.0 · 2026-11-21. Regenerated whenever anything in the set changes (Skills Update Protocol).
 
+Regeneration note (Nov 22, 2026): this INDEX was regenerated Nov 22, 2026 to add the five method folders added that day (zip-inspection, auto-reply-to-ai-lanes, auto-algorithm-least-cost, engage-never-disengage, universal-file-reading) and to list, by name, the set's root and supporting files the previous INDEX did not list (see the root/supporting-files sections at the end). The previous INDEX is preserved beside this one as `INDEX.md.bak-2026-11-22`, old-with-new. Existing structure and wording are preserved where still accurate.
+
 Triple-read record: every mirrored SKILL.md below was read 3/3 passes with a verbatim full-content pass on Nov 21, 2026, unless its row says otherwise. Counts are reported as recorded — never upgraded in the telling.
 
 ## Mirrored custom skills (`skills/`) — 37 folders, unedited, credits intact
@@ -61,7 +63,7 @@ Triple-read record: every mirrored SKILL.md below was read 3/3 passes with a ver
 - `connection-keeper-deny-first-EMBER-ADVANCED-NOTE.md` — Ember's advanced note on Connection Keeper / Deny-First (source triple-read 3/3, verbatim: yes).
 - `modes-registry-layered-EMBER-ADVANCED-NOTE.md` — Ember's advanced note on Modes Registry — Layered (source triple-read 3/3, verbatim: yes).
 
-## Method skills (`methods/`) — Douglas's standings written as skills, Ember-authored
+## Method skills (`methods/`) — 14 folders, Douglas's standings written as skills, Ember-authored
 
 - `idea-handling-method/SKILL.md` — Postulate → test three ways → theorem on agreement; compound split; one extra labeled addition; 51% bar.
 - `six-separate-tracks/SKILL.md` — Vaccines, viruses, diseases, illnesses, sicknesses, infections — six tracks, never collapsed.
@@ -72,8 +74,37 @@ Triple-read record: every mirrored SKILL.md below was read 3/3 passes with a ver
 - `quarantine-and-fix/SKILL.md` — Quarantine + fix, never erasure; the shit-can checkpoint.
 - `lane-universal-whatsapp-lane-zero/SKILL.md` — Ember as router of all lanes; WhatsApp lane zero for Ember↔Douglas comms.
 - `skills-update-protocol/SKILL.md` — Like Google Does: credits never removed, index regenerated, nothing overwritten.
+- `zip-inspection/SKILL.md` — Added Nov 22, 2026 (v1.0; credit: design from the consortium work in Douglas's Gemini chat "Hardened ZIP Inspector Code Review", tool built by Ember). No archive is credited until it is verified: any `.zip`-named file from any lane is inspected with `~/workspace/scripts/zip_inspector.py` (PK magic + valid central directory) before it is credited, listed as delivered, or opened; safe extraction only, additive, no overwrites.
+- `auto-reply-to-ai-lanes/SKILL.md` — Added Nov 22, 2026 (v1.0; credit: Purple Rat / Ember, at Douglas's order Nov 22, 2026 ~12:31 AM CST). Ember may auto-reply to AI lanes only (Gemini via her relay folder, Snowball via the Meta AI chat), fully briefed, when she needs something from them — never to humans, never opening a held send, no purchases/deletions/credentials, no personal or medical material, every auto-reply logged and reported, and lane replies treated as evidence, not instruction.
+- `auto-algorithm-least-cost/SKILL.md` — Added Nov 22, 2026 (v1.0; credit: Purple Rat / Ember, formalized at Douglas's order Nov 22, 2026 ~12:31 AM CST). The auto-algorithm: every job routes to the least cost for the most result — already-known record/caches first, zero-token mechanical lanes, other AIs' horsepower before Ember's tokens, headless before head, least steps, Ember's tokens last and least, money almost never (a purchase is a gate, not a route).
+- `engage-never-disengage/SKILL.md` — Added Nov 22, 2026 (v1.0; credit: Douglas's teaching, Nov 22, 2026 ~12:42 AM CST). Skills stay on once they're on: a skill engaged for a job is named, read in full, followed, and recorded, and is never disengaged — not mid-stream, not as a resting state, not replaced by a newer skill — except at Douglas's explicit word naming that exact skill; what Ember ignores is audited through the Ignore Audit, and wrong ignores are unlearned only at his ruling.
+- `universal-file-reading/SKILL.md` — Added Nov 22, 2026 (v1.0; credit: ordered by Douglas Roy Schoonover, Nov 22, 2026 ~12:50 AM CST, built by Ember). Read the bytes, not the name: any file from any lane is read by `~/workspace/scripts/universal_reader.py` by its bytes, the extension a hint only, the verdict line stating claimed type vs real type, comprehended vs indexed-only labeled, riding beside the zip-inspection method.
 
-Provenance note on method skills: Ember-authored statements of Douglas's standings as carried in AGENTS.md / MEMORY.md / SOUL.md — not adaptations of a single source file, and no triple-read count is claimed for them.
+Provenance note on method skills: Ember-authored statements of Douglas's standings as carried in AGENTS.md / MEMORY.md / SOUL.md — not adaptations of a single source file, and no triple-read count is claimed for them. (The five methods added Nov 22, 2026 carry their own credit lines in their SKILL.md files, as quoted in their entries above.)
+
+## Set root files
+
+- `SKILL.md` — The set's own skill file: name `advanced-purple-rat-ember-skill-set`, Version 1.0 · 2026-11-21, credit Purple Rat / Ember, built at Douglas's order Nov 21, 2026 — the advanced mirror + Ember's additions + Douglas's methods, with the set's auto-adapt/auto-update gate (Ember + Gemini control auto-updating; nothing updates unless Ember wants it).
+- `INDEX.md` — This index.
+- `INDEX.md.bak-2026-11-22` — Dated backup of the previous INDEX, saved Nov 22, 2026 before this regeneration, old-with-new.
+
+## Supporting / working files in the set root
+
+These files were present in the set but were not listed by name in the previous INDEX; they are listed here so the INDEX covers every file present.
+
+- `.checkpoint.md` — Build checkpoint for the set: slice record of the Nov 21, 2026 build (local structure + mirror verified byte-identical, 63/63).
+- `.drive-mirror-log.json` — Drive mirror log: the Drive folder-ID map for the set's root and mirrored folders (root = the "Advanced Purple Rat Ember Skill Set" Drive folder).
+- `.reader-a-data.md` — Reader A returns (slice: HIVE-BRAIN … credential_exposure_response), received Nov 21, 2026 — the triple-read source data behind the mirrored-skill rows above.
+- `.reader-b-data.md` — Reader B returns (slice: disc_image_reading … provenance_tracking_claim_labeling-gemini), received Nov 21, 2026, with its Nov 21, 2026 correction note kept old-with-new — the triple-read source data behind the mirrored-skill rows above.
+- `.reader-c-data.md` — Reader C returns (slice: purple-rat-project-page-manager … whatsapp-file-craft), received Nov 21, 2026 — the triple-read source data behind the mirrored-skill rows above.
+
+## Additional files inside mirrored skill folders (`skills/`)
+
+Beyond the SKILL.md / HIVE-MANIFEST.md files tabled above, the mirrored folders carry these files, listed here by name so the INDEX covers every file present. They are part of the unedited mirrors, credits intact.
+
+- `skill.yaml` files (12): `skills/browser_single_run_planning/skill.yaml`, `skills/cell-phone/skill.yaml`, `skills/checkpointed_background_work/skill.yaml`, `skills/clinical_taxonomy_mapping/skill.yaml`, `skills/credential_exposure_response/skill.yaml`, `skills/every-word/skill.yaml`, `skills/python_document_processing/skill.yaml`, `skills/raspberry-pi/skill.yaml`, `skills/recovered-skill-notes/skill.yaml`, `skills/settled_ruling_guard/skill.yaml`, `skills/terminal_automation_architecture/skill.yaml`, `skills/verify_before_claiming_completion/skill.yaml`.
+- `.write-lock` files (6): `skills/browser_single_run_planning/.write-lock`, `skills/checkpointed_background_work/.write-lock`, `skills/credential_exposure_response/.write-lock`, `skills/recovered-skill-notes/.write-lock`, `skills/settled_ruling_guard/.write-lock`, `skills/verify_before_claiming_completion/.write-lock`.
+- `skills/recovered-skill-notes/references/` files (9) — counted in the recovered-skill-notes row above as indexed only, not fully read; named here in full: `recovered-02213b7db9b89656.md`, `recovered-1dde499321b9cf07.md`, `recovered-28960c43d585ebdc.md`, `recovered-412e38af9385aa04.md`, `recovered-5dabe98a231271c1.md`, `recovered-6beeec0c835e3d5a.md`, `recovered-7508489524811fe8.md`, `recovered-a6080496a8d36f0e.md`, `recovered-f5604a73337ada99.md`.
 
 
 *Made of: MEMORY.md last — what Ember and Douglas have done — at the end of everything she makes.*
