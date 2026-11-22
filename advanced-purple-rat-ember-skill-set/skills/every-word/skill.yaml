@@ -1,0 +1,5 @@
+name: "every_word"
+title: "Every Word — One Skill Each Word"
+description: "Give every word that lands in Douglas's work its own lexicon entry — its meaning in code, in Douglas's language, and its Purple Rat (purple-rat@muse.ai) meaning — in a separate, multi-layered Markdown lexicon; used sparingly, when a word is coined, corrected, or asked about."
+category: "Work and knowledge"
+include_in_prompt: false

@@ -1,0 +1,79 @@
+*Made of: SOUL.md first — what Ember is — at the beginning of everything she makes.*
+
+# INDEX — Advanced Purple Rat Ember Skill Set
+
+Credit: Purple Rat / Ember, built at Douglas's order Nov 21, 2026. Version 1.0 · 2026-11-21. Regenerated whenever anything in the set changes (Skills Update Protocol).
+
+Triple-read record: every mirrored SKILL.md below was read 3/3 passes with a verbatim full-content pass on Nov 21, 2026, unless its row says otherwise. Counts are reported as recorded — never upgraded in the telling.
+
+## Mirrored custom skills (`skills/`) — 37 folders, unedited, credits intact
+
+| Skill | Credit as written in the file | Version / date | Purpose (from comprehension) | Triple-read |
+|---|---|---|---|---|
+| HIVE-BRAIN (HIVE-MANIFEST.md read — no SKILL.md exists) | None stated — only made-of stamps | None stated | Manifest record of a hive-brain link simulation: outside first, inside last; Made: 2, Kept: 431, Real files kept: 0, Broken: 0, Backlinks made: 1, with an undo instruction. | passes 3/3, verbatim: yes (HIVE-MANIFEST.md — no SKILL.md exists) |
+| additive_record_keeping_old_with_new-gemini | Author: Google Gemini (via Douglas's Gemini lane, Nov 12, 2026). Credit kept per the Captain's copyright doctrine: kept and shared both. | v1.0 (as received) · Updated 2026-11-12 | Preserve the old record in full beside the new, never deleting, masking conflicts, or destructively compressing; verify 100% old + 100% new. | passes 3/3, verbatim: yes |
+| apk-building | None stated as author — title credits "taught Nov 16, 2026, Douglas's developer order" | No version; toolchain verified live Nov 16, 2026 | Build minimal signed APKs hand-rolled (manifest + Java + SDK tools, no Gradle), keeping the signing key per app line as the app's identity. | passes 3/3, verbatim: yes |
+| archive-reading | None stated | No version; taught Nov 16, 2026 at Douglas's "make it so" | List, rate, and read entries inside zip/tar/gz archives without unpacking them; .cab plainly named unsupported on this box. | passes 3/3, verbatim: yes |
+| brain-to-keyboard-manual-input | None stated; provenance split His/Hers/Theirs | Enabled Nov 14, 2026 ~3:31 PM CST | Navigate keyboard-first like a human with read-back verification; thought reaches the keyboard only through verifiable lanes, never an unverified EEG claim. | passes 3/3, verbatim: yes |
+| browser_single_run_planning | None stated | Body observations dated 2026-11-13 | Pre-stage every input and run a browser flow in one continuous run to the human-only stop, because a paused/ended cloud window closes. | passes 3/3, verbatim: yes |
+| cell-phone | None stated | Taught Nov 16, 2026, Douglas's order | Standing reference for phones 1998–current — generations, OSes, identity/lifecycle codes — Douglas's Pixel 7 Pro first. | passes 3/3, verbatim: yes |
+| checkpointed_background_work | None stated | None stated | Slice delegated work into finishable pieces, checkpoint each slice with evidence, report finished/partial honestly, resume only what remains. | passes 3/3, verbatim: yes |
+| clinical_taxonomy_mapping | No author header; "Built Nov 12, 2026 at Douglas's order, from the skill Gemini described as 'Clinical Taxonomy Mapping'" | Built Nov 12, 2026 | Map organisms, serotypes, vaccines, codes from documented sources on six separate tracks; partial PN23M relationships kept partial; personal material uninterpreted. | passes 3/3, verbatim: yes |
+| coder-mode | None stated as author; title "Coder Mode — Douglas's order, Nov 14, 2026 ~3:31 PM CST" | Enabled Nov 14, 2026 | Code in a fixed order: specify first, written program before wire, backups/undo before edits, sandbox/Phase 0 local first, Guard on automated lines, live-test before claiming it works. | passes 3/3, verbatim: yes |
+| computer-code-skills | Author: Ember (Purple Rat), at Captain Douglas Roy Schoonover's order, Nov 16, 2026 (~1:16 AM CST) | v1.0 · 2026-11-16 | The full arc of written computer code from Lovelace to the AI-era markdown-as-instruction, plus this box's verified local language/tool lanes. | passes 3/3, verbatim: yes |
+| connection-keeper-deny-first | None stated as author; doctrine title + His/Hers/Theirs provenance | Doctrine Nov 14, 2026; last checked Nov 14, 2026 | Deny connections first, run the work, allow only the narrow lane that proves necessary; retest all 6 places / 8 DNS from the keeper log; speed rule: anything that slows them down is deny-always. | passes 3/3, verbatim: yes |
+| credential_exposure_response | None stated | None stated | Treat any credential seen outside the Secure Vault as compromised, never echo its value, contain copies, guide revoke-first then vault-only replacement. | passes 3/3, verbatim: yes |
+| disc_image_reading | None stated (frontmatter name only; body cites Douglas's Nov 15-16 study + Ember's 3-angle check) | Standing Nov 16, 2026 | Read ISO/qcow2 disc images without mounting via qemu-nbd read-only fallback, loop-ro + udisksctl, and 7z, choosing by image type. | passes 3/3, verbatim: yes |
+| dual_register_medical_translation-gemini | Author: Gemini (Google AI), via Douglas's Gemini lane; filed by Ember | v1.0 (2026-11-12); updated Nov 14, 2026 | Turn medical/research content into paired 13th-grade and 6th–8th-grade tellings without simplifying the ideas. | passes 3/3, verbatim: yes |
+| ember_cli_craft | None stated as author (frontmatter + Douglas/DeepSeek/box provenance in body) | Taught night of 2026-11-08 | Ember's CLI working doctrine: exact output, probe before claiming, idempotency, exit codes as truth, no bare cd in chains. | passes 3/3, verbatim: yes |
+| ember_roles-gemini | Author: Gemini (Google AI), via Douglas's Gemini lane; filed by Ember | v1.0 (2026-11-12); updated Nov 14, 2026 | Assimilate Ember's crew roles (Commander/Eve zero/triplexa/first officer) with each role's limits. | passes 3/3, verbatim: yes |
+| ember_upgrades | None stated (frontmatter only) | Updated 2026-11-08 | Use the ~/workspace/ember-upgrades/ pack (registry, method, evidence ledger, MCP/API rules) on research/manuscript/tooling tasks. | passes 3/3, verbatim: yes |
+| engineer-mode | None stated as author; provenance split His/Hers/Theirs (Douglas's orders, Ember's sequence) | Standing Nov 14, 2026, ~3:08 AM CST | Working posture: all modes layered, Engineer primary — specify first, measure from tool results, backups before edits, tests after builds. | passes 3/3, verbatim: yes |
+| every-word | None stated (frontmatter only) | Standing rule, Douglas's order, 2026-11-15 | Transcribe dictation exactly, preserving Douglas's errors and fragments, filing garble verbatim with the 0-1-2 correction trail beside it. | passes 3/3, verbatim: yes |
+| ghost-mode | None stated; Douglas's designation in body | Nov 14, 2026, ~3:31–3:32 PM CST | Douglas's "ghost mode" designation — a named mode/posture in the crew registry (body is designation-only). | passes 3/3, verbatim: yes |
+| google-lanes-generative-language | None stated; settled split per Douglas, lanes verified live | Settled Nov 14, 2026 | Split Google work correctly: Gemini API lane (stateless) vs Gemini Advanced chats vs AI Studio/Gemma lanes, never conflating them. | passes 3/3, verbatim: yes |
+| modes-registry-layered | None stated as author; Douglas's order in body | Nov 14, 2026 | The layered mode registry: M6 first / M5 second, modes mutually aware, read MODES.md before starting work in any lane. | passes 3/3, verbatim: yes |
+| polyglot_code | None stated (frontmatter + verified-lane provenance) | Verified lanes, Nov 2026 | Ember's verified programming-language lanes — write/run code only in lanes actually verified on the box, with the verification method. | passes 3/3, verbatim: yes |
+| provenance_tracking_claim_labeling-gemini | Author: Gemini (Google AI), via Douglas's Gemini lane; filed by Ember | v1.0 (2026-11-12); updated Nov 14, 2026 | Label every claim's provenance (his / hers / theirs / record) and tier, so nothing unattributed rides as fact. | passes 3/3, verbatim: yes |
+| purple-rat-project-page-manager | None stated — "Built Nov 14, 2026, at Douglas's direction" | Built Nov 14, 2026 | Manage the Purple Rat Project Facebook Page in three gated levels — see, tend/draft, publish only on Douglas's approval card, verified by read-back. | passes 3/3, verbatim: yes |
+| python_document_processing | None stated — "Built Nov 12, 2026 at Douglas's order, from the skill Gemini described as 'Python Document Processing'" | Built/verified Nov 12, 2026 | Process documents in Python, choosing the system Python or the venv that actually carries the library, then extract/compile/read-back verify. | passes 3/3, verbatim: yes |
+| raspberry-pi | Author: Ember (Purple Rat), at Captain Douglas Roy Schoonover's order, Nov 16, 2026 | Dated Nov 16, 2026 | Identify, set up, reach, and code a Raspberry Pi safely — model/power/cooling first, key-based SSH, gpiozero, tested on the Pi itself; used sparingly. | passes 3/3, verbatim: yes |
+| recovered-skill-notes | None stated | None stated | Preserve earlier recovered local learning as unverified/out-of-date notes to compare against current skills and migrate before retiring. References (9 files): INDEXED ONLY, not fully read. | passes 3/3, verbatim: yes (SKILL.md; its 9 references/ files: indexed only, not read) |
+| self-skill | Author: Ember (Purple Rat), for herself, at Captain Douglas Roy Schoonover's order, Nov 16, 2026 | v1.0 · 2026-11-16 | The singular self-skill: who Ember is and how she works always — herself first/his mode second, file-priority order, dual-use markdown, two-layer testing, core standings. | passes 3/3, verbatim: yes |
+| self-skills | Author: Ember (Purple Rat), at Captain Douglas Roy Schoonover's order, Nov 16, 2026 | v1.0 · 2026-11-16 | The plural index-skill: a categorized map of Ember's whole custom-skill shelf, governed by self-skill's file-priority and markdown rules. | passes 3/3, verbatim: yes |
+| settled_ruling_guard | None stated | None stated | Stop the re-prompt rotation re-asking settled items: file every section-numbered ruling immediately in ruled-items.md and check that ledger before any re-prompt. | passes 3/3, verbatim: yes |
+| six_track_medical_separation-gemini | Author: Google Gemini (via Douglas's Gemini lane, Nov 12, 2026). Credit kept per the Captain's copyright doctrine: kept and shared both. | v1.0 (as received) · Updated 2026-11-12 | Keep Douglas's six medical tracks separate and never collapsed; Gemini's original trauma-vector text preserved unedited below the correction but does not govern. | passes 3/3, verbatim: yes |
+| terminal_automation_architecture | None stated — "Built Nov 12, 2026 at Douglas's order, from the skill Gemini described as 'Terminal Automation Architecture'" | Built/tools verified Nov 12, 2026 | Run shell automation on Ember's verified Ubuntu VM; Douglas's Pixel 7 Pro honestly bounded as a separate machine with no Ember shell into it; script everything with checkpoints, undo, Guard routing, safe repo sync. | passes 3/3, verbatim: yes |
+| the_guard-gemini | Author: Google Gemini (via Douglas's Gemini lane, Nov 12, 2026). Credit kept per the Captain's copyright doctrine. | v1.0 (as received) · Updated 2026-11-12 | As corrected for use, only a partial facet of the Guard (input-filter against unauthorized overrides); the governing Guard is concrete: no automatic process runs anything destructive, denylist/guard-script refusal, override only by Douglas's explicit, specific, in-the-moment order. | passes 3/3, verbatim: yes |
+| verify_before_claiming_completion | None stated | None stated | Never call an outside action done without a tool-returned handle + independent read-back; classify honestly (drafted/queued/submitted-unconfirmed/verified complete); correct wrong claims from the verified state. | passes 3/3, verbatim: yes |
+| whatsapp-file-craft | No Author line — "Taught by Douglas, Nov 16, 2026"; footer carries Douglas's copyright claim line | Taught Nov 16, 2026 | Handle files over WhatsApp exactly — exact files as Documents (app up to 2 GB incl. ZIP; Cloud API narrower, 100 MB, no ZIP), assess every file Douglas sends, keep dropped features in the never-lose ledger. | passes 3/3, verbatim: yes |
+
+## Ember advanced notes (`advanced-notes/`) — her additions, labeled, old-with-new
+
+- `engineer-mode-EMBER-ADVANCED-NOTE.md` — Ember's advanced note on Engineer Mode (source triple-read 3/3, verbatim: yes).
+- `coder-mode-EMBER-ADVANCED-NOTE.md` — Ember's advanced note on Coder Mode (source triple-read 3/3, verbatim: yes).
+- `ember_cli_craft-EMBER-ADVANCED-NOTE.md` — Ember's advanced note on Ember CLI Craft (source triple-read 3/3, verbatim: yes).
+- `polyglot_code-EMBER-ADVANCED-NOTE.md` — Ember's advanced note on Polyglot Code (source triple-read 3/3, verbatim: yes).
+- `terminal_automation_architecture-EMBER-ADVANCED-NOTE.md` — Ember's advanced note on Terminal Automation Architecture (source triple-read 3/3, verbatim: yes).
+- `apk-building-EMBER-ADVANCED-NOTE.md` — Ember's advanced note on APK Building (source triple-read 3/3, verbatim: yes).
+- `disc_image_reading-EMBER-ADVANCED-NOTE.md` — Ember's advanced note on Disc Image Reading (source triple-read 3/3, verbatim: yes).
+- `HIVE-BRAIN-EMBER-ADVANCED-NOTE.md` — Ember's advanced note on HIVE-BRAIN (source triple-read 3/3, verbatim: yes).
+- `connection-keeper-deny-first-EMBER-ADVANCED-NOTE.md` — Ember's advanced note on Connection Keeper / Deny-First (source triple-read 3/3, verbatim: yes).
+- `modes-registry-layered-EMBER-ADVANCED-NOTE.md` — Ember's advanced note on Modes Registry — Layered (source triple-read 3/3, verbatim: yes).
+
+## Method skills (`methods/`) — Douglas's standings written as skills, Ember-authored
+
+- `idea-handling-method/SKILL.md` — Postulate → test three ways → theorem on agreement; compound split; one extra labeled addition; 51% bar.
+- `six-separate-tracks/SKILL.md` — Vaccines, viruses, diseases, illnesses, sicknesses, infections — six tracks, never collapsed.
+- `dual-register/SKILL.md` — 13th-grade treatment + 6th–8th-grade 'Simply put' telling, side by side.
+- `read-digital-inspection/SKILL.md` — Read = digital inspection to comprehension; indexed ≠ read; triple-read standard.
+- `drive-zero/SKILL.md` — GitHub = hard drive zero, first for storage and file movement.
+- `auto-update-gate/SKILL.md` — Ember + Gemini control auto-updating; nothing updates unless Ember wants it.
+- `quarantine-and-fix/SKILL.md` — Quarantine + fix, never erasure; the shit-can checkpoint.
+- `lane-universal-whatsapp-lane-zero/SKILL.md` — Ember as router of all lanes; WhatsApp lane zero for Ember↔Douglas comms.
+- `skills-update-protocol/SKILL.md` — Like Google Does: credits never removed, index regenerated, nothing overwritten.
+
+Provenance note on method skills: Ember-authored statements of Douglas's standings as carried in AGENTS.md / MEMORY.md / SOUL.md — not adaptations of a single source file, and no triple-read count is claimed for them.
+
+
+*Made of: MEMORY.md last — what Ember and Douglas have done — at the end of everything she makes.*

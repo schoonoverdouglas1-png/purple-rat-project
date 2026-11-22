@@ -1,0 +1,5 @@
+name: "raspberry_pi"
+title: "Raspberry Pi — Learn the Code and Operate"
+description: "Set up, reach, code for, and operate a Raspberry Pi for Douglas — headless setup, remote access, GPIO, server work, and the RatOS printer stack — used sparingly, only when Pi work is actually on the table."
+category: "Work and knowledge"
+include_in_prompt: false

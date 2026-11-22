@@ -1,0 +1,29 @@
+name: recovered_skill_notes
+title: Recovered skill notes
+description: Local skill notes preserved from the previous layout and awaiting review.
+category: Learning and customization
+include_in_prompt: true
+skill_improvement:
+  managed: true
+  status: retired
+  evidence_handles:
+  - /home/hatch/workspace/custom-skills/recovered-skill-notes/SKILL.md
+  - /home/hatch/workspace/custom-skills/recovered-skill-notes/skill.yaml
+  - /home/hatch/workspace/custom-skills/recovered-skill-notes/references/recovered-02213b7db9b89656.md
+  - /home/hatch/workspace/custom-skills/recovered-skill-notes/references/recovered-1dde499321b9cf07.md
+  - /home/hatch/workspace/custom-skills/recovered-skill-notes/references/recovered-28960c43d585ebdc.md
+  - /home/hatch/workspace/custom-skills/recovered-skill-notes/references/recovered-412e38af9385aa04.md
+  - /home/hatch/workspace/custom-skills/recovered-skill-notes/references/recovered-5dabe98a231271c1.md
+  - /home/hatch/workspace/custom-skills/recovered-skill-notes/references/recovered-6beeec0c835e3d5a.md
+  - /home/hatch/workspace/custom-skills/recovered-skill-notes/references/recovered-7508489524811fe8.md
+  - /home/hatch/workspace/custom-skills/recovered-skill-notes/references/recovered-a6080496a8d36f0e.md
+  - /home/hatch/workspace/custom-skills/recovered-skill-notes/references/recovered-f5604a73337ada99.md
+  measurement:
+    proxy_metric_id: objective_success_rate
+    success_criterion: The retired entry stays out of active discovery for the full 14-day window, no run or tool-call record references recovered_skill_notes, and objective_success_rate does not regress versus the pre-install baseline.
+    window_days: 14
+  needs_review: false
+  rationale: 'All nine recovered reference projections (created 2026-10-03 through 2026-10-14) record worker_outcome: insufficient and state ''No skill/tool surface changed in this run''; none contains a reusable method. The SKILL.md body likewise teaches no method: it only instructs moving useful methods into real skills and retiring the entry once incorporated. With zero incorporable content, the entry is a dead placeholder that is still listed in every prompt (include_in_prompt: true) and flagged needs_review. Retiring it completes the pending review, removes it from active discovery, and leaves the file on disk per the retirement contract. The refusal-nondeterminism signal and the recurring-failure/suppressed-handoff rollups were examined and dropped: refusals are policy-level (out of this loop''s scope) and the failure rollups carry no grounded mechanism in the packet.'
+  review_after: 2026-11-01T18:38:35.525215+00:00
+  reviewed_at: 2026-10-18T18:38:35.525215+00:00
+  run_id: sirun_0fe13b9159b742f6954c0227adf42d28

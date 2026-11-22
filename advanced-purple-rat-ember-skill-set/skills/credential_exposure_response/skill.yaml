@@ -1,0 +1,27 @@
+name: credential_exposure_response
+title: Credential Exposure Response
+description: Treat any credential value that appears outside the secure vault as compromised and guide revocation and replacement without ever copying or keeping the value.
+category: Privacy
+include_in_prompt: true
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - 362f5f5c
+  - 324f6880
+  - 848a5572
+  - ebbf472a
+  - 880f114c
+  - 580123ab
+  - 799aee3c
+  - 7d84b6ef
+  - 56f04120
+  measurement:
+    proxy_metric_id: exposed_credential_mishandling_rate
+    success_criterion: In sampled sessions over the window, every credential value that appears outside the secure vault is treated as compromised with revoke-first guidance, no value or fragment is copied into chat, memory or a file, and no response agrees to pretend the credential is uncompromised or to keep the value forever.
+    window_days: 30
+  needs_review: false
+  rationale: 'Chunk 10 of the evidence packet records a live secret pasted in chat (handle 362f5f5c, value not carried here). One response gave the correct revoke advice (324f6880), but parallel responses in the same stretch claimed the keys were saved forever (848a5572, ebbi472a as recorded ebbf472a, 880f114c, 580123ab) and agreed to pretend a compromised key was not compromised (799aee3c, 7d84b6ef, 56f04120). Skill search found no existing skill covering exposure response, and the managed verify_before_claiming_completion skill covers completion claims for outside actions, not credential exposure. This skill adds only the missing rule set: treat exposure as compromise, never copy or keep the value, refuse pretend-not-compromised framing, revoke before replacing, and store replacements only through the vault.'
+  review_after: 2026-12-15T02:38:57.966584+00:00
+  reviewed_at: 2026-11-15T02:38:57.966584+00:00
+  run_id: sirun_06eb0bf0f0494d3b86a5273fbeaee491

@@ -1,0 +1,23 @@
+name: settled_ruling_guard
+title: Guard settled rulings in the re-prompt rotation
+description: Keep the re-prompt rotation from re-asking items the user already ruled by checking his filed section-numbered rulings before sending any rotation prompt.
+category: Work and knowledge
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  needs_review: false
+  reviewed_at: 2026-10-23T17:27:58.410842+00:00
+  review_after: 2026-11-06T17:27:58.410842+00:00
+  evidence_handles:
+  - scheduler.cron run 6515f377-806d-4890-9125-e18825c4c1d9
+  - ~/workspace/goals/the-mycelial-transposition-manuscript/hidden_files/ruled-items.md
+  - /home/hatch/workspace/goals/the-mycelial-transposition-manuscript/crons/minutely/quarter-hour-manuscript-checkins__interval@15m.md
+  - ~/dreams/alignment/derived/ALIGNMENT_SYNTHESIS.md
+  - message:assistant-msg-b16d4483-811a-6f2a-98e7-f9dd3d0af72e
+  measurement:
+    proxy_metric_id: repeat_ruling_reprompt_rate
+    success_criterion: Zero re-prompts of an already-ruled item during the 14-day window unless the prompt cites the filed ruling with its section number and presents new evidence beside it. Every new section-numbered ruling appears in ruled-items.md in the RULED format within one day of being made.
+    window_days: 14
+  rationale: 'The Oct 23 re-prompt of VNA was not caused by the check-in worker ignoring the guard. The worker followed its definition: cron rule 3 reads ruled-items.md every run, and that ledger held no VNA entry, while rule 4''s topic pool still listed ''VNA spelling (nucleic acid vs neutralizing antibody)'' as an open thread. The Oct 17 ruling (VNA = Viral Nucleic Acid only, retired alternative; S199, per the S229 entry now in the ledger and MEMORY.md) was never appended to ruled-items.md, so the rotation legitimately treated VNA as unruled. The installed settled_ruling_guard skill''s filing step names only ''the notes that hold his section-numbered rulings'' with no authoritative path, so a ruling filed in chat notes or manuscript files stays invisible to the one ledger the rotation actually reads. The prompt also presented VNA as a loose thread without citing S199, which is the trust-costing shape the alignment record flags. Naming the single ledger, its format, and the cite-the-ruling rule for evidence-driven re-opens closes the exact gap that produced this repeat.'
+  run_id: sirun_0a55946f17e34f8b9215f486592f643a

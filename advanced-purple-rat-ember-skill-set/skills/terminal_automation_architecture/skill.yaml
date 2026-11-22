@@ -1,0 +1,5 @@
+name: "terminal_automation_architecture"
+title: "Terminal Automation Architecture"
+description: "Run shell automation on Ember's verified Ubuntu VM tools, keep Douglas's phone toolchain separate and honestly bounded, and synchronize repositories through the Guard."
+category: "Work and knowledge"
+include_in_prompt: true

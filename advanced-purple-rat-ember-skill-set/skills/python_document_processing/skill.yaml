@@ -1,0 +1,5 @@
+name: "python_document_processing"
+title: "Python Document Processing"
+description: "Process, parse and compile documents and data locally with the verified Python stack, choosing the system Python or the document venv that actually carries each library."
+category: "Work and knowledge"
+include_in_prompt: true

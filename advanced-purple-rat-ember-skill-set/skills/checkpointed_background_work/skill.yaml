@@ -1,0 +1,21 @@
+name: checkpointed_background_work
+title: Checkpoint background and delegated work
+description: Make delegated and scheduled work finish in completable slices with a saved checkpoint and a clear resume point, so an interrupted or unfinished run returns usable progress instead of nothing.
+category: Work and knowledge
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - work_id 56a391f9-a5e5-4504-be3d-c170b6e62e42
+  - cron run rabbit-check-in 047570b4-efa9-4471-a302-2070479fb6c4
+  - work_ids 34f7dbc5, 7c0fca5e, 447cffca, f50be4b0, aed1901c, da03c170
+  measurement:
+    proxy_metric_id: background_work_unfinished_rate
+    success_criterion: In the 14 days after install, at most 1 in 10 delegated or scheduled runs ends with the worker reporting that the work is not finished, and every unfinished or interrupted run in that window leaves a checkpoint or report naming the completed slices and the exact next slice, so none returns zero usable progress.
+    window_days: 14
+  needs_review: false
+  rationale: The failure ledger in this window shows the same terminal shape repeated at least seven times, cron workers ending with work is not finished, across work ids 56a391f9-a5e5-4504-be3d-c170b6e62e42, 34f7dbc5, 7c0fca5e, 447cffca, f50be4b0, aed1901c and da03c170, with the scheduled rabbit-check-in run 047570b4-efa9-4471-a302-2070479fb6c4 failing the same way, plus ten or more interrupted subagent runs. The packet gives no error text beyond that terminal message, so the grounded defect is the delegation contract itself, not a named tool. Searching the skill catalog for scheduled job checkpointing and delegated handoff methods found no existing skill that requires completable slices, a saved checkpoint, or a resume only the remainder rule. The messaging system skill already covers honest send reporting, and the settled ruling guard covers re-prompts, so this proposal adds only the missing background work contract and does not duplicate them. The spotify custom connector stays untouched because it is still inside its measurement window to 2026-11-21.
+  review_after: 2026-11-22T09:46:59.834109+00:00
+  reviewed_at: 2026-11-08T09:46:59.834109+00:00
+  run_id: sirun_d98c9d4b550d4c96ad9579c7df4c8dc9

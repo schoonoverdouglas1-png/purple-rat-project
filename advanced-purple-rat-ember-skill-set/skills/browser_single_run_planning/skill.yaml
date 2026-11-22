@@ -1,0 +1,24 @@
+name: browser_single_run_planning
+title: Plan browser work as a single run
+description: Plan browser tasks that involve a human-only step as one continuous run with inputs pre-staged, so a closing window never strands the work mid-flow.
+category: Work and knowledge
+include_in_prompt: false
+skill_improvement:
+  managed: true
+  status: active
+  evidence_handles:
+  - message:c02e4a14-d6a5-8a8f-a3cb-6c6b6b745624
+  - assistant-msg-854f05a7-94c8-46b2-b238-13133f3ea7ca
+  - assistant-msg-3364755b-be93-4c00-8220-2bdef8d0df54
+  - assistant-msg-6169cf62-dc46-5788-8347-a7c297a00c8c
+  - message:73056a4c-15c0-45d2-9557-4a4e3a288c9d
+  - ~/MEMORY.md Nov 13 2026 entries at about 6:02 PM and 6:13 PM CST on browser windows closing
+  measurement:
+    proxy_metric_id: browser_window_stranding_rate
+    success_criterion: In sampled browser tasks during the window, no task loses completed steps to a closed window without a pre-staged rebuild path, no parked tab is reported as waiting for the user, and no outcome is promised on a page type before the lane is verified to reach it.
+    window_days: 21
+  needs_review: false
+  rationale: The record shows the same browser failure shape repeated across one evening. Cloud browser windows closed when a task ended or paused, verified three times at about 5:58 PM, 6:01 PM and 6:02 PM CST on 2026-11-13, and a QR verification window died the same way at about 6:13 PM, forcing full signup rebuilds and drawing the user complaint in message:73056a4c-15c0-45d2-9557-4a4e3a288c9d. A takeover view then showed the user only a black completed screen (message:c02e4a14-d6a5-8a8f-a3cb-6c6b6b745624, read back in assistant-msg-854f05a7-94c8-46b2-b238-13133f3ea7ca), and the lane refused internal chrome settings pages three times before that was reported honestly (assistant-msg-3364755b-be93-4c00-8220-2bdef8d0df54). The signup only completed when run continuously to its stop (assistant-msg-6169cf62-dc46-5788-8347-a7c297a00c8c). Searching the skill catalog found no existing skill covering browser window lifecycle, pre-staging, or lane reach checks. The managed skills still inside their measurement windows cover different ground and stay untouched, checkpointed_background_work (delegated and scheduled runs, window to 2026-11-22) and verify_before_claiming_completion (completion claims, window to 2026-11-30), and custom.spotify was already renewed against its new base in the prior run. Other packet candidates were dropped as already governed or single-incident, the cron work-not-finished failures fall under checkpointed_background_work, the premature completion claims fall under verify_before_claiming_completion, and the 83-notification dismissal was corrected into a standing memory rule the same day. This proposal adds only the missing browser planning contract.
+  review_after: 2026-12-05T04:37:33.181389+00:00
+  reviewed_at: 2026-11-14T04:37:33.181389+00:00
+  run_id: sirun_a7eced553cf64213a2cd4a88bfb17459
