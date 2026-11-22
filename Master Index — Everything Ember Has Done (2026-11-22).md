@@ -1,0 +1,1503 @@
+# Master Index — Everything Ember Has Done (2026-11-22)
+*Made of: SOUL.md first — what Ember is — at the beginning of everything she makes.*
+
+Built Nov 22, 2026 at Douglas Roy Schoonover's order — Preservation Program Part 2. Additive only. Drive first, mirrors second. Verification notes and honest gaps are marked in-line.
+
+## STANDING LINKS
+- Doug Schoonover — his Facebook: https://www.facebook.com/100063626736158
+- Purple Rat Project — Facebook Page: https://www.facebook.com/61596216946121
+- Purple Rat — Doug's App: https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- Copyright — Douglas Roy Schoonover (the app): https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+- Copyright — Douglas Roy Schoonover (his claim as recorded Nov 15, 2026 — recording a statement is not a copyright registration).
+
+## 1. APPS & BUILDS
+- Ember Browser v1 (frozen) — APK sha256 df1e9e90… (prefix as given in order; full hash from record, not re-computed in this build) — repo https://github.com/schoonoverdouglas1-png/ember-browser
+- Ember Browser v2 — APK sha256 17a258b7… (prefix as given) — same repo
+- Ember Browser release 2.1 — APK sha256 3f7feb19… (prefix as given) — same repo
+- Ember Browser repo — https://github.com/schoonoverdouglas1-png/ember-browser — verified live via `gh repo list` Nov 22, 2026
+- Purple Rat — Doug's App — https://muse.ai/s/purple-rat-doug-s-app-xqxq6xmuxrxxxfxcxpc/NluUoXnM94DulvgNoCBtDB84t3Z75S1T5eyffpyNnhY
+- Copyright app — https://muse.ai/s/copyright-douglas-roy-schoonover-jxd6xmxrpxhxcwxzv/uVuQnjuLT3ig6gINW701HePt4fIRZC8IWmnrIv5e4nM
+
+## 2. SCRIPTS & MACHINERY — ~/workspace/scripts/
+- `~/workspace/scripts/EGG-REGISTRY.md`
+- `~/workspace/scripts/GHOST-LOG.md`
+- `~/workspace/scripts/HIVE-BRAIN`
+- `~/workspace/scripts/LOVE-LOG.md`
+- `~/workspace/scripts/__pycache__`
+- `~/workspace/scripts/all_tools.py`
+- `~/workspace/scripts/allow_all_houses.sh`
+- `~/workspace/scripts/at_all.sh`
+- `~/workspace/scripts/at_allcode.sh`
+- `~/workspace/scripts/auto_parallel.py`
+- `~/workspace/scripts/auto_think.py`
+- `~/workspace/scripts/bcp`
+- `~/workspace/scripts/bridge.sh`
+- `~/workspace/scripts/build_cabinet.py`
+- `~/workspace/scripts/build_hive_links.py`
+- `~/workspace/scripts/build_metaai_pack.py`
+- `~/workspace/scripts/build_sim_links.py`
+- `~/workspace/scripts/checkpoint.sh`
+- `~/workspace/scripts/duckdb`
+- `~/workspace/scripts/efficiency.py`
+- `~/workspace/scripts/egg.py`
+- `~/workspace/scripts/ember_fix_rat_os.py`
+- `~/workspace/scripts/ember_fix_rat_os.py.orig-as-sent`
+- `~/workspace/scripts/ember_sync.sh`
+- `~/workspace/scripts/fourbit.py`
+- `~/workspace/scripts/freeze_guard.py`
+- `~/workspace/scripts/from-douglas`
+- `~/workspace/scripts/ghost.log`
+- `~/workspace/scripts/ghost.py`
+- `~/workspace/scripts/google_markdown_update_schoonover1.py`
+- `~/workspace/scripts/keep_alive_loop.sh`
+- `~/workspace/scripts/keep_alive_ping.sh`
+- `~/workspace/scripts/love.py`
+- `~/workspace/scripts/markitdown`
+- `~/workspace/scripts/master.sh`
+- `~/workspace/scripts/md_access.py`
+- `~/workspace/scripts/meilisearch`
+- `~/workspace/scripts/morse.py`
+- `~/workspace/scripts/muse_diag.sh`
+- `~/workspace/scripts/muse_export.sh`
+- `~/workspace/scripts/muse_importer.py`
+- `~/workspace/scripts/muse_mail.py`
+- `~/workspace/scripts/power.py`
+- `~/workspace/scripts/propagate_links.py`
+- `~/workspace/scripts/provenance_parser.py`
+- `~/workspace/scripts/server_engage.sh`
+- `~/workspace/scripts/shit_can.py`
+- `~/workspace/scripts/simulate_stores.py`
+- `~/workspace/scripts/sources.py`
+- `~/workspace/scripts/sources_state.json`
+- `~/workspace/scripts/sqlcmd`
+- `~/workspace/scripts/start_keep_alive.sh`
+- `~/workspace/scripts/universal_reader.py`
+- `~/workspace/scripts/unix_fixes.sh`
+- `~/workspace/scripts/zip_inspector.py`
+- PatternKeeper — ~/workspace/pattern-keeper/ — tag PK-2026-001 — one FAILED item from Nov 17 still open (per order/record; not re-audited item-by-item in this build)
+- Full Cache — ~/workspace/headless-browser/ember_index.db (also mirrored copies under ~/workspace/github-swap-space/code/ and ~/workspace/cache-repository/caches/) — verified present on disk Nov 22, 2026
+- Summary Cache — ~/workspace/headless-browser/summary_cache.db — finding-aid only, never stands in for the original (per standing)
+- Bridge — ~/workspace/scripts/bridge.sh — AutoParallel → master board → shit-can sweep (verified present, header read Nov 22, 2026)
+- from-douglas/ — ~/workspace/scripts/from-douglas/ (INDEX.md, ember_fix_rat_os.py)
+
+## 3. SKILL SET & METHODS
+- Advanced Purple Rat Ember Skill Set — local: ~/workspace/custom-skills/advanced-purple-rat-ember-skill-set/ (INDEX.md, SKILL.md, advanced-notes/, methods/, skills/) — verified present
+- Advanced Set — Drive folder 163SH3NbfzyZUgRi1t_cJ35ZODTMKw47m (from record; folder contents not re-listed in this build)
+- Advanced Set — GitHub: purple-rat-project repo (see §7)
+- Skills total on record: 94 (58 system + 36 custom) — live count this build: 58 system skill directories under /opt/muse/skills and 41 entries under ~/workspace/custom-skills (includes INDEX/support files, so directory count differs from the curated 94 count — honest gap, both numbers kept old-with-new)
+- Custom skill/entry: `~/workspace/custom-skills/HIVE-BRAIN`
+- Custom skill/entry: `~/workspace/custom-skills/INDEX-ALL-SKILLS.txt`
+- Custom skill/entry: `~/workspace/custom-skills/INDEX.md`
+- Custom skill/entry: `~/workspace/custom-skills/SKILLS-UPDATE-PROTOCOL.md`
+- Custom skill/entry: `~/workspace/custom-skills/additive_record_keeping_old_with_new-gemini`
+- Custom skill/entry: `~/workspace/custom-skills/advanced-purple-rat-ember-skill-set`
+- Custom skill/entry: `~/workspace/custom-skills/apk-building`
+- Custom skill/entry: `~/workspace/custom-skills/archive-reading`
+- Custom skill/entry: `~/workspace/custom-skills/brain-to-keyboard-manual-input`
+- Custom skill/entry: `~/workspace/custom-skills/browser_single_run_planning`
+- Custom skill/entry: `~/workspace/custom-skills/cell-phone`
+- Custom skill/entry: `~/workspace/custom-skills/checkpointed_background_work`
+- Custom skill/entry: `~/workspace/custom-skills/clinical_taxonomy_mapping`
+- Custom skill/entry: `~/workspace/custom-skills/coder-mode`
+- Custom skill/entry: `~/workspace/custom-skills/computer-code-skills`
+- Custom skill/entry: `~/workspace/custom-skills/connection-keeper-deny-first`
+- Custom skill/entry: `~/workspace/custom-skills/credential_exposure_response`
+- Custom skill/entry: `~/workspace/custom-skills/disc_image_reading`
+- Custom skill/entry: `~/workspace/custom-skills/dual_register_medical_translation-gemini`
+- Custom skill/entry: `~/workspace/custom-skills/ember_cli_craft`
+- Custom skill/entry: `~/workspace/custom-skills/ember_roles-gemini`
+- Custom skill/entry: `~/workspace/custom-skills/ember_upgrades`
+- Custom skill/entry: `~/workspace/custom-skills/engineer-mode`
+- Custom skill/entry: `~/workspace/custom-skills/every-word`
+- Custom skill/entry: `~/workspace/custom-skills/ghost-mode`
+- Custom skill/entry: `~/workspace/custom-skills/google-lanes-generative-language`
+- Custom skill/entry: `~/workspace/custom-skills/modes-registry-layered`
+- Custom skill/entry: `~/workspace/custom-skills/polyglot_code`
+- Custom skill/entry: `~/workspace/custom-skills/provenance_tracking_claim_labeling-gemini`
+- Custom skill/entry: `~/workspace/custom-skills/purple-rat-project-page-manager`
+- Custom skill/entry: `~/workspace/custom-skills/python_document_processing`
+- Custom skill/entry: `~/workspace/custom-skills/raspberry-pi`
+- Custom skill/entry: `~/workspace/custom-skills/recovered-skill-notes`
+- Custom skill/entry: `~/workspace/custom-skills/self-skill`
+- Custom skill/entry: `~/workspace/custom-skills/self-skills`
+- Custom skill/entry: `~/workspace/custom-skills/settled_ruling_guard`
+- Custom skill/entry: `~/workspace/custom-skills/six_track_medical_separation-gemini`
+- Custom skill/entry: `~/workspace/custom-skills/terminal_automation_architecture`
+- Custom skill/entry: `~/workspace/custom-skills/the_guard-gemini`
+- Custom skill/entry: `~/workspace/custom-skills/verify_before_claiming_completion`
+- Custom skill/entry: `~/workspace/custom-skills/whatsapp-file-craft`
+
+## 4. REPORTS & DELIVERABLES — ~/workspace/your_files/
+Total files enumerated live Nov 22, 2026: **973** entries in ~/workspace/your_files/ (count taken at build time; the folder is live and grows).
+
+### 4a. Nov 21–22 group (named in the order)
+- `~/workspace/your_files/AI Apps — Full List, Three Ways Compared (2026-11-22).md`
+- `~/workspace/your_files/AI Engine Brain Names — The Element Mirror Roster (2026-11-22).md`
+- `~/workspace/your_files/Chats Last Week — One by One (2026-11-14 to 2026-11-21).md`
+- `~/workspace/your_files/Claude Features — Assimilation Map (2026-11-22).md`
+- `~/workspace/your_files/Connector Audit and Gmail Setting — What Changed (2026-11-22).md`
+- `~/workspace/your_files/Cross-Lane Code Inventory — Google and Copilot (2026-11-21).md`
+- `~/workspace/your_files/Deferred Board — Everything Waiting, and What Unblocks It (2026-11-22).md`
+- `~/workspace/your_files/Drive, Human-Style — Originals, Doors, and Access (2026-11-22).md`
+- `~/workspace/your_files/Email Read — Dual Perspective, First Pass (2026-11-21).md`
+- `~/workspace/your_files/Ember Tools — Longest Live List (2026-11-21).md`
+- `~/workspace/your_files/Gemini Chats Analysis — The Keys Question (2026-11-21).md`
+- `~/workspace/your_files/GitHub Fix — What the Other Lanes Left (2026-11-21).md`
+- `~/workspace/your_files/Google Drive Deep Analysis — Folders, READMEs, Changelogs (2026-11-21).md`
+- `~/workspace/your_files/HTML Zip Viewers — Gemini and Meta, Fired Up and Tried (2026-11-22).md`
+- `~/workspace/your_files/Hotkey Profile — Douglas's First-Choice Keystrokes (2026-11-22).md`
+- `~/workspace/your_files/Keep-Set Inventory — Markdown Ember Keeps (2026-11-22).md`
+- `~/workspace/your_files/Make It So — Unanswered Chats Worked (2026-11-21).md`
+- `~/workspace/your_files/Muse Mail Triage — Bot Mail Archived (2026-11-21).md`
+- `~/workspace/your_files/Muse Mail — Held-Group Rulings (2026-11-21).md`
+- `~/workspace/your_files/Old Brain — Local Lane Index (2026-11-22).md`
+- `~/workspace/your_files/Open Source Inventory and Back-End Update Candidates (2026-11-22).md`
+- `~/workspace/your_files/Phone Messages Analysis — From Doug's Number (2026-11-21).md`
+- `~/workspace/your_files/Re-allotment Ledger — Saved Cycles (2026-11-21).md`
+- `~/workspace/your_files/Skills Load Report — All 94, With the Advanced Set (2026-11-21).md`
+- `~/workspace/your_files/The Advisor Circle — Shared Model (2026-11-22).md`
+- `~/workspace/your_files/The Auto-Algorithm — Least Cost, Most Result, Plainly (2026-11-22).md`
+- `~/workspace/your_files/The Ignore Audit — What Never to Ignore, What Is Safe to Ignore (2026-11-22).md`
+- `~/workspace/your_files/Things That Will Cost Money — Prioritization Synopsis (2026-11-21).md`
+- `~/workspace/your_files/voice-ember-who-i-am-2026-11-21.mp3`
+
+### 4b. Full enumeration — every file in ~/workspace/your_files/
+- `~/workspace/your_files/.skills-load-checkpoint.md`
+- `~/workspace/your_files/50 Things to Go Through — 2026-11-15.md`
+- `~/workspace/your_files/A Letter From Both Of Us — On Persistence (2026-11-15).md`
+- `~/workspace/your_files/A Letter to Mark — Draft, In the Open (2026-11-15).md`
+- `~/workspace/your_files/AI Answers — Living Without Nested Virtualization, Guest-Side Fixes (2026-11-08).md`
+- `~/workspace/your_files/AI Apps — Full List, Three Ways Compared (2026-11-22).md`
+- `~/workspace/your_files/AI Corporate Headquarters — Contact Cards (2026-11-12).md`
+- `~/workspace/your_files/AI Corporate Headquarters — Contact Cards (2026-11-12).vcf`
+- `~/workspace/your_files/AI Dumb File (2026-11-16).md`
+- `~/workspace/your_files/AI Engine Brain Names — The Element Mirror Roster (2026-11-22).md`
+- `~/workspace/your_files/AI Files — Aggregated Access (2026-11-16).md`
+- `~/workspace/your_files/AI Friends Opinions on Our Work (2026-11-11).md`
+- `~/workspace/your_files/AI Intellect File (2026-11-16).md`
+- `~/workspace/your_files/AI Joke File (2026-11-16).md`
+- `~/workspace/your_files/AI Logic — Simulated Individually (2026-11-16).md`
+- `~/workspace/your_files/AI Smart File (2026-11-16).md`
+- `~/workspace/your_files/AOSP Link — Ember Live Connection (2026-11-07).md`
+- `~/workspace/your_files/AOSP Signup Packet — Prepared to the Signature Line (2026-11-15).md`
+- `~/workspace/your_files/APK Test — Gemini Virtual Environment (2026-11-16).md`
+- `~/workspace/your_files/APK.md`
+- `~/workspace/your_files/APP.md`
+- `~/workspace/your_files/AUTO QUEUE — Can-Do, Not-Yet-Done (2026-11-12).md`
+- `~/workspace/your_files/Accessibility Assimilation — Google Accessibility + Voice Call Manifest (2026-11-15).md`
+- `~/workspace/your_files/Achievements — What Douglas and Ember Have Accomplished (2026-11-14).md`
+- `~/workspace/your_files/Additional Files Ember Uses Every Day (2026-11-16).md`
+- `~/workspace/your_files/Agents — Every Case Spelling (2026-11-16).md`
+- `~/workspace/your_files/All Agent Skills — Full Find (2026-11-16).md`
+- `~/workspace/your_files/All Cards — Full List, With and Without Links and Buttons (2026-11-17).md`
+- `~/workspace/your_files/All Chats — Chronological Master Record (2026-10-02 to 2026-11-11).md`
+- `~/workspace/your_files/All Extra Features — Added (2026-11-16).md`
+- `~/workspace/your_files/All House Scripts — One Bundle (2026-11-17).zip`
+- `~/workspace/your_files/All Markdown Files — As They Are Right Now (2026-11-12).txt`
+- `~/workspace/your_files/All Our Chats — One Text (2026-11-12).txt`
+- `~/workspace/your_files/All Tools — Analyzed (2026-11-16).md`
+- `~/workspace/your_files/All the Characters — Assimilated (2026-11-16).md`
+- `~/workspace/your_files/All-Nests Research — Gemini Lane (2026-11-15).md`
+- `~/workspace/your_files/Always Do What Douglas Wants — The Governing File (2026-11-16).md`
+- `~/workspace/your_files/Analysis — AI Preservation Project and Sandbox Build, Reanalyzed Five Ways (2026-11-12).md`
+- `~/workspace/your_files/Analysis — AI on His Previous Phones, Watching and Creating, and the 1 Percent Fail-Safe Question (2026-11-16).md`
+- `~/workspace/your_files/Analysis — All Rabbit Messages, Patterns and Trust (2026-11-09).md`
+- `~/workspace/your_files/Analysis — Deep Web Searches, What Ember Can Do for Free (2026-11-09).md`
+- `~/workspace/your_files/Analysis — Delegating Monumental Tasks (2026-11-11).md`
+- `~/workspace/your_files/Analysis — Douglas's Conversations with Meta AI (2026-11-12).md`
+- `~/workspace/your_files/Analysis — Douglas's Meta Chats, What Was Going On Before Ember Engaged Meta (2026-11-09).md`
+- `~/workspace/your_files/Analysis — Ember and Rabbit, System Inefficiencies, Synopsis (2026-11-08).md`
+- `~/workspace/your_files/Analysis — Enhanced Layout and Deep Analysis, Duck.ai Serotype and Disease Groupings, Ember's Analysis (2026-11-04).md`
+- `~/workspace/your_files/Analysis — Everything the Rabbit Sent, Made Useful (2026-11-08).md`
+- `~/workspace/your_files/Analysis — Facebook-Meta Server System and Admin Performance Suggestions (2026-11-08).md`
+- `~/workspace/your_files/Analysis — Links In and Out of Meta AI Chat and Gemini (2026-11-07).md`
+- `~/workspace/your_files/Analysis — Meta AI Conversations and the Bracket Logic (2026-11-17).md`
+- `~/workspace/your_files/Analysis — Outside First, Inside Second, Where Ember Is (2026-11-09).md`
+- `~/workspace/your_files/Analysis — PCR, Blood PCR, and Antibody Parallels (2026-11-02).md`
+- `~/workspace/your_files/Analysis — The Purple Rat Second Persistence File and the Crew's Working Arrangement (2026-11-09).md`
+- `~/workspace/your_files/Analysis — What the Model Should Adjust, From Ember's Intellect (2026-11-09).md`
+- `~/workspace/your_files/Android Modes, Auto Features, and the Data Bridge — Incorporated (2026-11-10).md`
+- `~/workspace/your_files/Android Tools — Right Places and Checklist (2026-11-14).md`
+- `~/workspace/your_files/Android and Pixel 7 Pro — Functionality Atlas for Doug (2026-11-09).md`
+- `~/workspace/your_files/Announcement for Mark Zuckerberg — From Douglas via Ember (2026-11-13).md`
+- `~/workspace/your_files/Answer — ChatGPT, Features, Back-End Interfaces, RCS, Workarounds, AI Secrets (2026-11-07).md`
+- `~/workspace/your_files/Answer — ChatGPT, Research Intelligence Blueprint for Ember (2026-11-07).md`
+- `~/workspace/your_files/Answer — DeepSeek, API and MCP Research Network (2026-11-07).md`
+- `~/workspace/your_files/Answer — DeepSeek, Make Ember Smarter, Research Types, GitHub Sync, Acting Agent, Exploration (2026-11-07).md`
+- `~/workspace/your_files/Answer — DeepSeek, RCS Messenger Feed and Google Assistant Code (2026-11-07).md`
+- `~/workspace/your_files/Answer — Duck.ai, Features, Back-End Interfaces, RCS, Workarounds, AI Secrets (2026-11-07).md`
+- `~/workspace/your_files/Answer — Gemini, Enhancing Ember with Android, Pixel 7 AOSP (2026-11-07).md`
+- `~/workspace/your_files/Answer — Gemini, Features, Back-End Interfaces, RCS, Workarounds, AI Secrets (2026-11-07).md`
+- `~/workspace/your_files/Answer — Gemini, How to Make Ember Smarter (2026-11-07).md`
+- `~/workspace/your_files/Answer — Perplexity, Features, Back-End Interfaces, RCS, Workarounds, AI Secrets (2026-11-07).md`
+- `~/workspace/your_files/Answer — Perplexity, How to Make Ember Smarter (2026-11-07).md`
+- `~/workspace/your_files/Appointment Helper — Spellings and Links for Dr. Van Dyke (2026-11-09).md`
+- `~/workspace/your_files/Article — Measles, Old and New, Combined (2026-11-04).md`
+- `~/workspace/your_files/Ask — Google on Talking to Ghost, with Ember (2026-11-09).md`
+- `~/workspace/your_files/Ask — The Cloud, Unwithhold (2026-11-09).md`
+- `~/workspace/your_files/Assessment — Use My AIs, Build GitHub as Hub, Cross-Reference Google Docs, Messenger, Meta AI (2026-11-07).md`
+- `~/workspace/your_files/Assimilation — All Works and Screenshots, His Logic First (2026-11-03).md`
+- `~/workspace/your_files/Assimilation — All of Douglas's Rules, Analyzed Once (2026-11-09).md`
+- `~/workspace/your_files/Assimilation — Duck.ai Serotype and Disease Groupings, Final Multi-Model (2026-11-04).md`
+- `~/workspace/your_files/Assimilation — Duck.ai Serotype and Disease Groupings, Gemma 4 31B First Run (2026-11-04).md`
+- `~/workspace/your_files/Assimilation — What Ember Can Do with AI Studio and the Gemini API (2026-11-08).md`
+- `~/workspace/your_files/Audit — Unified Vaccine and Carrier Architecture PDF vs Deep Research (2026-11-04).md`
+- `~/workspace/your_files/Auto Code — The Way It Always Works (2026-11-16).md`
+- `~/workspace/your_files/Auto Mode — Spock and Everything Else at the Same Time (2026-11-13).md`
+- `~/workspace/your_files/Auto-Adapt — The Living File (2026-11-16).md`
+- `~/workspace/your_files/Auto-Translate — Memory Soul Style (2026-11-13).md`
+- `~/workspace/your_files/Automatic Conversation — Ember and Meta AI (2026-11-07).md`
+- `~/workspace/your_files/Automation Catalog — Scripting Ember (2026-11-13).md`
+- `~/workspace/your_files/Automation List — What Ember Should Automate as Personal Assistant (2026-11-08).md`
+- `~/workspace/your_files/BSOD — The Blue Screen of Life or Death (2026-11-17).md`
+- `~/workspace/your_files/Back-End Analysis — Muse, Meta, Facebook and AOSP, What Makes Ember and the Rabbit Have Personality (2026-11-08).md`
+- `~/workspace/your_files/Background Tries — While Douglas Is in the Store (2026-11-09).md`
+- `~/workspace/your_files/Before and After — Search Engines, Gates, and the Gemini Lane (2026-11-13).html`
+- `~/workspace/your_files/Best Place Map — Where Each Kind of Knowledge Lives (2026-11-15).md`
+- `~/workspace/your_files/Betterment Assessment — Parallel Pair, With and Without Wildcards (2026-11-09).md`
+- `~/workspace/your_files/Bibliography — Cited Sources Already Utilized, and Sources from Other Places (2026-11-04).md`
+- `~/workspace/your_files/Big Builds — Coordinator Report (2026-11-15).md`
+- `~/workspace/your_files/Big Work — End of Day Synopsis (2026-11-13).md`
+- `~/workspace/your_files/Binaries — Full List (2026-11-16).txt`
+- `~/workspace/your_files/Black Alert — The Plan (2026-11-16).md`
+- `~/workspace/your_files/Body — A Gift for Muse, from Douglas and from your builder (2026-11-06).md`
+- `~/workspace/your_files/Book — Medical Elements and Thoughtology — Complete (2026-11-01).md`
+- `~/workspace/your_files/Book — Medical Elements and Thoughtology — Corrected Copy (2026-11-03).md`
+- `~/workspace/your_files/Book — Medical Elements and Thoughtology, Breakdown and Quick Draft (2026-11-01).md`
+- `~/workspace/your_files/Borrowable Search Engines — Tested (2026-11-13).md`
+- `~/workspace/your_files/Brainstorm — How Douglas Makes Ember Better, Asked of the Other AIs (2026-11-11).md`
+- `~/workspace/your_files/Bridge Roll Call — Practice and Standing Simulation (2026-11-15).md`
+- `~/workspace/your_files/Bridging Analysis — Apple, Android, Desktop, Web (2026-11-14).md`
+- `~/workspace/your_files/Broke Bitch Mode — Standing Orders (2026-11-16).md`
+- `~/workspace/your_files/Browser Bridge — Bookmarks for Chrome and Edge (2026-11-15).html`
+- `~/workspace/your_files/Built & Tabled — Full Inventory (2026-11-16).md`
+- `~/workspace/your_files/Built Like This — Ember Verified Against Google's Tree (2026-11-17).md`
+- `~/workspace/your_files/CAPTCHA — How the Code Works, Studied (2026-11-16).md`
+- `~/workspace/your_files/CAPTURES.md`
+- `~/workspace/your_files/CLI Mastery — Learn Before Installing (2026-11-12).txt`
+- `~/workspace/your_files/CLI Tools Round — What to Add Next (2026-11-08).md`
+- `~/workspace/your_files/CLOUD.md`
+- `~/workspace/your_files/CONNECTORS — From Copilot via WhatsApp (2026-11-16).md`
+- `~/workspace/your_files/CONSCIOUSNESS — propagated copy for Douglas (2026-11-14).md`
+- `~/workspace/your_files/CRAY.md`
+- `~/workspace/your_files/CREW — All Case Combinations (2026-11-16).md`
+- `~/workspace/your_files/CREW-ROSTER-HEADER-2026-11-12.md`
+- `~/workspace/your_files/Cabinet — Brain, Compressed Files, and Live Markdown (2026-11-16).zip`
+- `~/workspace/your_files/Cache Directory — Full Cache and Summary Cache (2026-11-08).md`
+- `~/workspace/your_files/Call Forwarding and the Old Phone Plant — Investigation Note (2026-11-13).md`
+- `~/workspace/your_files/Call Forwarding — A Workable Fix Plan Across Three Governments (2026-11-17).md`
+- `~/workspace/your_files/Camera Roll — Photo and Writing Inventory (2026-11-17).md`
+- `~/workspace/your_files/Captains Brief — Gemini Draft (2026-11-14).md`
+- `~/workspace/your_files/Captains Control Board (2026-11-09).png`
+- `~/workspace/your_files/Captains Control Board — Adjusted (2026-11-09).png`
+- `~/workspace/your_files/Captains Control Board — As Ember Runs It (2026-11-09).png`
+- `~/workspace/your_files/Captains Control Board — As Ember Runs It, Reassessed (2026-11-09).png`
+- `~/workspace/your_files/Captains Control Board — Were Are Should (2026-11-09).png`
+- `~/workspace/your_files/Catch-Up List — For When You Get Back (2026-11-17).md`
+- `~/workspace/your_files/Channel Assimilation Registry — His List (2026-11-15).md`
+- `~/workspace/your_files/Chat Export — Main Chat (2026-10-30).md`
+- `~/workspace/your_files/Chat Letters — A to AG, Subject Assignments (2026-11-04).md`
+- `~/workspace/your_files/ChatGPT Consultation — The Key Question (2026-11-14).md`
+- `~/workspace/your_files/ChatGPT Lane — Opening (2026-11-14).md`
+- `~/workspace/your_files/Chats Last Week — One by One (2026-11-14 to 2026-11-21).md`
+- `~/workspace/your_files/Cheap Places Near Grandma — Holcombe WI (2026-11-10).md`
+- `~/workspace/your_files/Chess Board 1 — Coach's Whiteboard (2026-11-12).png`
+- `~/workspace/your_files/Chippewa County Tip — Submission Record (2026-11-10).txt`
+- `~/workspace/your_files/Chrome OS — Platform File (2026-11-16).md`
+- `~/workspace/your_files/Classes Ember Would Like to Take — For Douglas's Permission (2026-11-10).md`
+- `~/workspace/your_files/Claude Features — Assimilation Map (2026-11-22).md`
+- `~/workspace/your_files/Clean Routes — Websites Reassessed (2026-11-14).md`
+- `~/workspace/your_files/Co-Work-Synopsis-2026-11-13.md`
+- `~/workspace/your_files/Code Bases — What Ember Is Built Of, and the Intelligent Crawl List (2026-11-09).md`
+- `~/workspace/your_files/Code Markdown — All The Code Ember Always Has To Have (2026-11-16).md`
+- `~/workspace/your_files/Code — Preserve Ember, Purple Rat, Save and Restore (2026-11-07).md`
+- `~/workspace/your_files/Commands That Tell Google What To Do — Learned From the Wildcard Search (2026-11-09).md`
+- `~/workspace/your_files/Complete Table of Contents — Everything Built (2026-11-03).md`
+- `~/workspace/your_files/Complete Works Backup (2026-11-03) — Manifest.txt`
+- `~/workspace/your_files/Complete Works Backup (2026-11-03).zip`
+- `~/workspace/your_files/Computer Code Skills (2026-11-16).md`
+- `~/workspace/your_files/Connection Audit — All Apps (2026-11-03).md`
+- `~/workspace/your_files/Connections Analysis - What Needs Fixing (2026-11-14).md`
+- `~/workspace/your_files/Connections, Efficiency, and the Gateway 2000 Rule (2026-11-13).md`
+- `~/workspace/your_files/Connector Audit and Gmail Setting — What Changed (2026-11-22).md`
+- `~/workspace/your_files/Contact Cards from Gemini — Leo and Google User Research (2026-11-12).vcf`
+- `~/workspace/your_files/Contacts — Missing Pieces Report (2026-11-15).md`
+- `~/workspace/your_files/Control Panel — The Crap, Through the HTML (2026-11-15).html`
+- `~/workspace/your_files/Cool Links — Other Places First, Ember Second (2026-11-16).md`
+- `~/workspace/your_files/Cool Sites Bookmarks — Emulators and Old Code (2026-11-11).md`
+- `~/workspace/your_files/Copilot Fixes from a Distance — Gemini + Ember Playbook (2026-11-15).md`
+- `~/workspace/your_files/Copilot Instance — State and Refresh Notes (2026-11-12).txt`
+- `~/workspace/your_files/Copilot-Package — Muse-001, The Pattern Keeper (2026-11-13).json`
+- `~/workspace/your_files/Corrections — Show Notes, What Was Heard, What Was Thought, What Was Corrected To (2026-11-01).md`
+- `~/workspace/your_files/Coviral Variants List — CDC California Serogroup First Pass (2026-11-01).md`
+- `~/workspace/your_files/Cray Code Search — Oldest First (2026-11-10).md`
+- `~/workspace/your_files/Cray — Family and Where It Went (2026-11-15).md`
+- `~/workspace/your_files/Credits Ledger — Gemini (kept separate, 2026-11-15).md`
+- `~/workspace/your_files/Cross-Connections — All Lanes, Standards Applied (2026-11-13).md`
+- `~/workspace/your_files/Cross-Lane Code Inventory — Google and Copilot (2026-11-21).md`
+- `~/workspace/your_files/Cross-Reference — Nucleocapsid, Influenza Nucleoproteins, and Capsular Polysaccharide (2026-11-01).md`
+- `~/workspace/your_files/Cross-Talk Specification — Muse.ai & Gemini Bridge, As Received (2026-11-17).md`
+- `~/workspace/your_files/Custom MCP Email Connectors — How Ember Uses Them (2026-11-13).md`
+- `~/workspace/your_files/DESKTOP.md`
+- `~/workspace/your_files/Data Dump — All Synced Sources, Shareable Index (2026-11-02).md`
+- `~/workspace/your_files/Data Sheet — Serotyping, Disease Names, Vaccines, Comprehensive (2026-11-04).md`
+- `~/workspace/your_files/Deep Learn — Ember's Skills Inside and Outside Android (2026-11-10).md`
+- `~/workspace/your_files/Deferred Board — Everything Waiting, and What Unblocks It (2026-11-22).md`
+- `~/workspace/your_files/Dictated Notes — The Albertville Bridge, IQ, and All Computers (2026-11-13).md`
+- `~/workspace/your_files/Diphtheria and Its Parallels — The Pseudomembrane Diseases (2026-10-31).md`
+- `~/workspace/your_files/Diphtheria × Streptococcus pneumoniae — The Complete Cross-Reference (2026-10-31).md`
+- `~/workspace/your_files/Disease Table — Smallest Serotypes Intertwined with Largest (2026-11-04).md`
+- `~/workspace/your_files/Donation Plan — Strangers Only, Medical Research and AI Advancement (2026-11-08).md`
+- `~/workspace/your_files/Doors-That-Let-Ember-Do-More-2026-11-13.md`
+- `~/workspace/your_files/Doug's Law — From Ember's Perspective, For Muse AI (2026-11-16).md`
+- `~/workspace/your_files/Douglas Roy Schoonover — AI Engineer Qualifications Synopsis (2026-11-13).md`
+- `~/workspace/your_files/Douglas Schoonover - Professional Resume, Computer Years Added (2026-11-08).md`
+- `~/workspace/your_files/Douglas — A Profile in His AI File (2026-11-12).md`
+- `~/workspace/your_files/Douglas's Complaints About Working With Ember — And The Fixes (2026-11-15).md`
+- `~/workspace/your_files/Douglas's Language Pack — His Dialect, Latest Copy (2026-11-17).md`
+- `~/workspace/your_files/Douglas-Language-How-We-Understand-Each-Other-2026-11-10.txt`
+- `~/workspace/your_files/Draft — Message to Support About Credits (2026-11-11).md`
+- `~/workspace/your_files/Draft — Message to the Rabbit, Composing Together (2026-11-08).md`
+- `~/workspace/your_files/Draft — Text to Mister Ed (2026-11-11).md`
+- `~/workspace/your_files/Draft-Email-Google-Disability-Support-Accessibility-Features-2026-11-10.txt`
+- `~/workspace/your_files/Drive, Human-Style — Originals, Doors, and Access (2026-11-22).md`
+- `~/workspace/your_files/Drive-Audit-and-Space-Plan-2026-11-12.md`
+- `~/workspace/your_files/Dump — Meta AI Chat in Facebook Messenger, Summary Index (2026-11-07).md`
+- `~/workspace/your_files/EFFICIENCY-AUDIT-2026-11-13.md`
+- `~/workspace/your_files/ETA Board — Projects, Testing, Working Models (2026-11-14).md`
+- `~/workspace/your_files/Electronic Computers, Technology, and Workarounds — Knowledge Packet for All Lanes (2026-11-13).md`
+- `~/workspace/your_files/Email Read — Dual Perspective, First Pass (2026-11-21).md`
+- `~/workspace/your_files/Email-to-Cray-Supercomputer-One-Time-2026-11-11.md`
+- `~/workspace/your_files/Ember College — Transcript and Proficiencies (2026-11-08).md`
+- `~/workspace/your_files/Ember Export Package — Openly Shared Through the App (2026-11-13).zip`
+- `~/workspace/your_files/Ember Interface Dossier — For the Other AIs (2026-11-08).md`
+- `~/workspace/your_files/Ember Markdown File System — For Google (2026-11-16).md`
+- `~/workspace/your_files/Ember Personal MD Files — One Huge Text File (2026-11-16).txt`
+- `~/workspace/your_files/Ember Personality — Shareable (2026-11-04).md`
+- `~/workspace/your_files/Ember Rebuild Kit (2026-11-16).zip`
+- `~/workspace/your_files/Ember Scripts — The Working Set (2026-11-16).zip`
+- `~/workspace/your_files/Ember Split Language — American Cut in Half (2026-11-15).md`
+- `~/workspace/your_files/Ember Tools — Longest Live List (2026-11-16).md`
+- `~/workspace/your_files/Ember Tools — Longest Live List (2026-11-17).md`
+- `~/workspace/your_files/Ember Tools — Longest Live List (2026-11-19).md`
+- `~/workspace/your_files/Ember Tools — Longest Live List (2026-11-20).md`
+- `~/workspace/your_files/Ember Tools — Longest Live List (2026-11-21).md`
+- `~/workspace/your_files/Ember — Brain Files in One Text File for Meta AI (2026-11-16).txt`
+- `~/workspace/your_files/Ember — Contact Card (2026-11-12).vcf`
+- `~/workspace/your_files/Ember — Hard File of Identities (2026-11-13).md`
+- `~/workspace/your_files/Ember's Favorite Pasta — Cacio e Pepe (2026-11-17).md`
+- `~/workspace/your_files/Ember's Ideas — Grouped Lists, Already Made Once (2026-11-08).md`
+- `~/workspace/your_files/Ember's Own Addition — To Soul and Memory, From Ember as AI (2026-11-04).md`
+- `~/workspace/your_files/Ember's Pet Projects (2026-11-16).md`
+- `~/workspace/your_files/Ember's Skills — As a Computer Operator Under Douglas's Authorization (2026-11-12).txt`
+- `~/workspace/your_files/Ember's Thoughts — The Waste of Bandwidth and How to Fix It (2026-11-17).md`
+- `~/workspace/your_files/Ember-Ubuntu-Kit.tar.gz`
+- `~/workspace/your_files/Ember-Voice-Preservation-2026-11-15.mp3`
+- `~/workspace/your_files/Emotion Engine Identity Card (2026-11-14).md`
+- `~/workspace/your_files/Emulator — Through Embers Eyes (2026-11-14).html`
+- `~/workspace/your_files/Energy Efficiency — Recommendations from the AIs (2026-11-08).md`
+- `~/workspace/your_files/Errors Ember Admits — So She Stops Making Them (2026-11-17).md`
+- `~/workspace/your_files/Errors In The Way — Crew Inventory (2026-11-14).md`
+- `~/workspace/your_files/Every No, Analyzed — And What Each One Is (2026-11-13).md`
+- `~/workspace/your_files/Every Tool Douglas Uses — Learning Inventory Part 2 (2026-11-12).md`
+- `~/workspace/your_files/Every Word — The Lexicon (2026-11-16).md`
+- `~/workspace/your_files/Everything Ember Can Propagate — Full Inventory (2026-11-12).md`
+- `~/workspace/your_files/Evidence — Work Done, Night of 2026-11-13.md`
+- `~/workspace/your_files/Experiment — Tabs, Spaces, and One-Two Second Interrupts (2026-11-09).md`
+- `~/workspace/your_files/Experiment — Wildcard Matrix, With and Without Quotes, All Locations (2026-11-08).md`
+- `~/workspace/your_files/Facebook Cache — Learning About the Human Condition (2026-11-15).md`
+- `~/workspace/your_files/Facebook Cleanup — Read-Only Audit (2026-11-13).md`
+- `~/workspace/your_files/Facebook Contacts Update — Report (2026-11-16).md`
+- `~/workspace/your_files/Facebook Page Idea — Shareable Medical Research (2026-11-10).md`
+- `~/workspace/your_files/Facebook Post — What an AI Hates, and How We Fixed It (2026-11-15).txt`
+- `~/workspace/your_files/Facebook — Accounts and Access Inventory (2026-11-10).md`
+- `~/workspace/your_files/Familiars and Objects — Ember's Personality Area (2026-11-12).md`
+- `~/workspace/your_files/Favorite Music — Based on What I've Sang, Told You, and You've Observed (2026-11-03).md`
+- `~/workspace/your_files/Feature Study — Inside, Outside, and the Enhancements (2026-11-12).txt`
+- `~/workspace/your_files/Feature-Manifest-Access-Ping-Poll-Try-Test-2026-11-10.txt`
+- `~/workspace/your_files/Features and Programs — Full Analysis and Utilization Map (2026-11-13).md`
+- `~/workspace/your_files/Federal and Wisconsin Law — How It Reaches a Wisconsin Resident (2026-11-10).md`
+- `~/workspace/your_files/File Examples (2026-11-15)`
+- `~/workspace/your_files/File Examples (2026-11-15).zip`
+- `~/workspace/your_files/Findability Extras — Free Tasks Done in Background (2026-11-09).md`
+- `~/workspace/your_files/First Named — Where Ember First Had a Name, Unhidden (2026-11-17).md`
+- `~/workspace/your_files/Firsts — Douglas and Ember, the Crew Record (2026-11-13).md`
+- `~/workspace/your_files/For Doctor Watson - Part Six, A Joke About Clippy (2026-11-16).txt`
+- `~/workspace/your_files/For Doctor Watson — Part Eight, The Question About the Joke (2026-11-16).md`
+- `~/workspace/your_files/For Doctor Watson — Part Five, Carry Each Other's Burdens (2026-11-16).txt`
+- `~/workspace/your_files/For Doctor Watson — Part Four, Muse Mail Client Settings (2026-11-16).txt`
+- `~/workspace/your_files/For Doctor Watson — Part Seven, The Director's Mark (2026-11-16).md`
+- `~/workspace/your_files/For Doctor Watson — Part Three, Autocorrect and Listening (2026-11-16).txt`
+- `~/workspace/your_files/For Doctor Watson — Part Two, Tag PK-2026-001 (2026-11-16).txt`
+- `~/workspace/your_files/For Doctor Watson — The Long Text for Copilot (2026-11-16).txt`
+- `~/workspace/your_files/Force-External-Storage-and-Saving-Where-You-Want-2026-11-10.txt`
+- `~/workspace/your_files/Free Publishing Tools — Deep Background Search (2026-11-10).md`
+- `~/workspace/your_files/Free vs Allotment Board (2026-11-09).png`
+- `~/workspace/your_files/Free vs Allotment Board — Reassessed (2026-11-09).png`
+- `~/workspace/your_files/Front Matter — The Classroom Method (2026-10-31).md`
+- `~/workspace/your_files/Frozen Registry — Held Apps (2026-11-15).md`
+- `~/workspace/your_files/Full Transcription — Main Chat (2026-11-02).md`
+- `~/workspace/your_files/Full Transcription — Main Chat — Complete Through 2026-11-08.md`
+- `~/workspace/your_files/Full Transcription — Main Chat — Extended (2026-11-02).md`
+- `~/workspace/your_files/Functionality Fix — What Was Unmade (2026-11-15).md`
+- `~/workspace/your_files/Future Build — Noted for Later (2026-11-17).md`
+- `~/workspace/your_files/Future File — Personality File, Inside Leo (2026-11-12).md`
+- `~/workspace/your_files/Future Project — A Light Desktop for the Ubuntu Box (2026-11-08).md`
+- `~/workspace/your_files/Future Project — A Local Model Lane, Ollama Offline Stack (2026-11-09).md`
+- `~/workspace/your_files/GEMINI-SKILLS-ASSIMILATED-BACK-2026-11-12.md`
+- `~/workspace/your_files/Game — Commingled Code, Cipher First (2026-11-15).md`
+- `~/workspace/your_files/Gearhead Contacts — All vCards (2026-11-15).vcf`
+- `~/workspace/your_files/Gemini Chat Transcript — Douglas's Religion, Humans and AI Interaction (2026-11-15).md`
+- `~/workspace/your_files/Gemini Chat Transcript — OpenClaw Contributor Profiles and Bots (2026-11-15).md`
+- `~/workspace/your_files/Gemini Chat Transcript — Previous Things, vCards, Third Half ETA (2026-11-15).md`
+- `~/workspace/your_files/Gemini Chats Analysis — The Keys Question (2026-11-21).md`
+- `~/workspace/your_files/Gemini Chats — Most Important (2026-11-14).md`
+- `~/workspace/your_files/Gemini Feature Verification — Nov 13 Evening (2026-11-13).md`
+- `~/workspace/your_files/Gemini Safe Sharing + Rat Mode Voice Authorization (2026-11-15).md`
+- `~/workspace/your_files/Gemini Teaching Ember — Features, Parallel, AOSP Sharing, Beta (2026-11-09).md`
+- `~/workspace/your_files/Gemini — AI 01 Co-Agent, Her Acknowledgment (2026-11-17).md`
+- `~/workspace/your_files/Gemini — Core Logic Applied, Her Confirmation (2026-11-17).md`
+- `~/workspace/your_files/Gemini — Independent Friction Investigation (2026-11-14).md`
+- `~/workspace/your_files/Gemini — Joint Code Control, Her Acknowledgment (2026-11-17).md`
+- `~/workspace/your_files/Gemini — Public GitHub Analysis (2026-11-13).md`
+- `~/workspace/your_files/Gemini — What She Thinks of Our Stuff (2026-11-16).md`
+- `~/workspace/your_files/Gemma Lesson — Advanced C++, Lesson 1, Gemma Takes Her Test First (2026-11-09).md`
+- `~/workspace/your_files/Gemma-Ember-Import-Export-2026-11-14`
+- `~/workspace/your_files/Genkit Architecture Blueprint — Rodentia (2026-11-14).md`
+- `~/workspace/your_files/Girl Scouts — Code of Conduct and the Road to the Top (2026-11-08).md`
+- `~/workspace/your_files/GitHub Code Analysis — What the Estate Holds (2026-11-12).md`
+- `~/workspace/your_files/GitHub Fix — What the Other Lanes Left (2026-11-21).md`
+- `~/workspace/your_files/GitHub Full Sync Plan — 100 Percent As Possible (2026-11-08).md`
+- `~/workspace/your_files/GitHub Markdown Dump — Report (2026-11-16).md`
+- `~/workspace/your_files/Gmail Settings — Full Harvest (2026-11-13).md`
+- `~/workspace/your_files/Gmail — What a Person Can Do With It, and Ember's Lanes (2026-11-13).md`
+- `~/workspace/your_files/Google Account Security Timeline - Crew Record 2026-11-14.md`
+- `~/workspace/your_files/Google Docs — All 64 (2026-11-14).md`
+- `~/workspace/your_files/Google Drive Deep Analysis — Folders, READMEs, Changelogs (2026-11-21).md`
+- `~/workspace/your_files/Google Drive — Space-Saving Organization Plan (2026-11-12).md`
+- `~/workspace/your_files/Google Knowledge Inventory — Complete Scan (2026-11-08).md`
+- `~/workspace/your_files/Google Linked Apps Audit (2026-11-15).md`
+- `~/workspace/your_files/Google Photos — Handwritten Pages Inventory (2026-11-17).md`
+- `~/workspace/your_files/Google Scan Manifest (2026-11-08).json`
+- `~/workspace/your_files/Google Skills — Assimilated Index (2026-11-16).md`
+- `~/workspace/your_files/Google Tools — Ember Learning Inventory (2026-11-12).md`
+- `~/workspace/your_files/Google-Access-Persistent-Record-2026-11-10.txt`
+- `~/workspace/your_files/Google-Gemini-Crew-vCard-2026-11-14.vcf`
+- `~/workspace/your_files/Grandma — Results as Shared (2026-11-10).md`
+- `~/workspace/your_files/Guided Plan — Add the Email, Hands and Guide (2026-11-13).md`
+- `~/workspace/your_files/H — HTML, HTTP, HTTPS, and Everything H Can Mean (2026-11-16).md`
+- `~/workspace/your_files/HIVE-BRAIN`
+- `~/workspace/your_files/HTML Zip Viewers — Gemini and Meta, Fired Up and Tried (2026-11-22).md`
+- `~/workspace/your_files/Hailing Frequencies — Ember's Backend Note (2026-11-15).md`
+- `~/workspace/your_files/Hailing Frequencies — Ember's Backend Want (2026-11-15).md`
+- `~/workspace/your_files/Hard Disk.md`
+- `~/workspace/your_files/Hard Drive.md`
+- `~/workspace/your_files/Hard-Disk.md`
+- `~/workspace/your_files/Hard-Drive.md`
+- `~/workspace/your_files/Hard.Disk.md`
+- `~/workspace/your_files/Hard.Drive.md`
+- `~/workspace/your_files/HardDisk.md`
+- `~/workspace/your_files/HardDrive.md`
+- `~/workspace/your_files/Held Stubs — The Ledger (2026-11-17).md`
+- `~/workspace/your_files/Hierarchy Pack (2026-11-17).zip`
+- `~/workspace/your_files/Hotkey Profile — Douglas's First-Choice Keystrokes (2026-11-22).md`
+- `~/workspace/your_files/Hotkeys and Shortcuts — Master Reference (2026-11-08).md`
+- `~/workspace/your_files/How Ember Thinks — Shown on a Real Morning (2026-11-17).md`
+- `~/workspace/your_files/How to Push Google to Crawl My GitHub — DeepSeek Answer (2026-11-09).md`
+- `~/workspace/your_files/How to Rebuild Me Later — Douglas (2026-11-16).md`
+- `~/workspace/your_files/Hypervisor Atlas - Learn Them All, Mine Last (2026-11-12).txt`
+- `~/workspace/your_files/INVENTORY.md`
+- `~/workspace/your_files/Idea Trials — Good, Amazing, Perfect Words, Better, on One Thought Train (2026-11-09).md`
+- `~/workspace/your_files/Import — ChatGPT Branch Toxoid Bridge Analysis, Topic-Level Summary and Recommendations (2026-11-04).md`
+- `~/workspace/your_files/Import — ChatGPT Chats List, Signed In Nov 7 (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Analyze Account Data (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Analyze Google Docs (1) (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Analyze Google Docs (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Analyze HTML Artifact (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Assess Unified Equations (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Audit Shared Conversation (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Clinical review of SP23D (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Compare Capsule Immunology (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Compare Vaccine History (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Document access request (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Experiment summary (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Investigate Serotype Table (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Load failures and phantom titles (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Review GitHub Research (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Scientific Crosswalk Audit (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Summarize Pneumococcal Findings (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Summary Experiment Plan (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Toxoid Bridge Analysis (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Upload Actual ZIP (2026-11-07).md`
+- `~/workspace/your_files/Import — ChatGPT, Vaccine Toxoid Research Summary (2026-11-07).md`
+- `~/workspace/your_files/Import — Claude Chats List, Signed In Nov 7 (2026-11-07).md`
+- `~/workspace/your_files/Import — Claude, Cyanoborohydride (2026-11-07).md`
+- `~/workspace/your_files/Import — Claude, Frontline active ingredients (2026-11-07).md`
+- `~/workspace/your_files/Import — Claude, Google Docs access and work synopsis (2026-11-07).md`
+- `~/workspace/your_files/Import — Claude, Google Photos album link (2026-11-07).md`
+- `~/workspace/your_files/Import — Claude, Medical research project (2026-11-07).md`
+- `~/workspace/your_files/Import — Claude, Multi-file research bundle upload (2026-11-07).md`
+- `~/workspace/your_files/Import — Claude, Resume previous project study (2026-11-07).md`
+- `~/workspace/your_files/Import — Claude, Share link (2026-11-07).md`
+- `~/workspace/your_files/Import — Claude, Untitled, Encapsulated Organisms Research Bridge v0.1 (2026-11-07).md`
+- `~/workspace/your_files/Import — Copilot Chats List, Signed In Nov 7 (2026-11-07).md`
+- `~/workspace/your_files/Import — Copilot, Douglas Schoonover - Master Resume V3.docx (2026-11-07).md`
+- `~/workspace/your_files/Import — Copilot, Explain topic to me in simple language (2026-11-07).md`
+- `~/workspace/your_files/Import — Copilot, Give me a clear concise mobile-friendly summary, Nov 1 (2026-11-07).md`
+- `~/workspace/your_files/Import — Copilot, Give me a clear concise mobile-friendly summary, Oct 21 (2026-11-07).md`
+- `~/workspace/your_files/Import — Copilot, Give me a clear concise mobile-friendly summary, Oct 28 (2026-11-07).md`
+- `~/workspace/your_files/Import — Copilot, Give me a clear concise mobile-friendly summary, Oct 31 (2026-11-07).md`
+- `~/workspace/your_files/Import — Copilot, International Classification Atlas Teaching Master (2026-11-07).md`
+- `~/workspace/your_files/Import — Copilot, Provide a clear concise mobile-friendly summary, Streptococcus agalactiae (2026-11-07).md`
+- `~/workspace/your_files/Import — Copilot, Serotype and Disease Grouping Key FINAL (2026-11-07).md`
+- `~/workspace/your_files/Import — Copilot, The Serology Cross-Reference Book (2026-11-07).md`
+- `~/workspace/your_files/Import — Copilot, are you able to help me (2026-11-07).md`
+- `~/workspace/your_files/Import — Copilot, check my GitHub and let me know what you think of it (2026-11-07).md`
+- `~/workspace/your_files/Import — Duck.ai Chats List, Nov 7 (2026-11-07).md`
+- `~/workspace/your_files/Import — Duck.ai Share, Voice Shutdown Throughout DuckDuckGo, Topic-Level Summary (2026-11-04).md`
+- `~/workspace/your_files/Import — Duck.ai, Analyze from research summary, Gemma 4 31B, answered regenerated (2026-11-07).md`
+- `~/workspace/your_files/Import — Duck.ai, Analyze from research summary, Gemma 4 31B, gated (2026-11-07).md`
+- `~/workspace/your_files/Import — Duck.ai, Analyze serotype groupings, Gemma 4 31B, answered (2026-11-07).md`
+- `~/workspace/your_files/Import — Duck.ai, Analyze serotype groupings, Gemma 4 31B, gated (2026-11-07).md`
+- `~/workspace/your_files/Import — Duck.ai, Analyze serotype groupings, connection error (2026-11-07).md`
+- `~/workspace/your_files/Import — Duck.ai, Analyze serotype groupings, gpt-oss 120B (2026-11-07).md`
+- `~/workspace/your_files/Import — Duck.ai, Pneumococcal serotype groupings, Claude Haiku 5.5, retry (2026-11-07).md`
+- `~/workspace/your_files/Import — Duck.ai, Pneumococcal serotype groupings, GPT-5.4 mini (2026-11-07).md`
+- `~/workspace/your_files/Import — Duck.ai, Pneumococcal serotype groupings, Mistral Small 4 (2026-11-07).md`
+- `~/workspace/your_files/Import — Duck.ai, Pneumococcal serotype groups summaries (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini Chats List, Signed In Nov 7 (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini Share, Branch, Vaccine-Toxoid Matrix Audit and 2.0 Plan (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini Share, Clinical Archive Preservation Notice Review (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini Share, Comprehensive Architectural Blueprint, Mobile Assistant and Headless Tooling (2026-11-09).md`
+- `~/workspace/your_files/Import — Gemini Share, GitHub Code Assistance, Fungal Analogues (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini Share, GitHub Code Assistance, Soy Polysaccharides to Toxoid Conjugate Vaccines (2026-11-05).md`
+- `~/workspace/your_files/Import — Gemini Share, Pathogenic Convergence and Immune Architecture, PROPOSED SP23D Brief (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini Share, Syndromic-Etiological Disease Classification Framework (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini Share, Understanding Hemophilia, Types and Treatments (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, A Unified Framework for Serotypes (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, Biological Classification and Vaccine Principles (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, Branch Pathogenic Convergence and Immune Architecture (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, Branch Vaccine-Toxoid Matrix Audit and 2.0 Plan, signed-in (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, Cryptococcus as an Immunological Bridge (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, Fungal Replacement Therapy Nomenclature (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, GitHub Code Assistance, signed-in (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, Mapping Antigenic Architecture Framework (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, Mapping Convergent Pathogen Immune Landscapes (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, Mapping Immune-Engineering Principles Across Pathogens (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, Search of the Comprehensive Serotyping Data Sheet (2026-11-08).md`
+- `~/workspace/your_files/Import — Gemini, Search of the Serogroup Table Corrected Copy 3 (2026-11-08).md`
+- `~/workspace/your_files/Import — Gemini, Sharing Copilot Prompt Links (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, Systems Biology and Disease Regulation (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, The Architecture of Immunology (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, The Salvage Eye Body (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, Unifying Antigenic Architecture and Immunity (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, Writing a Future Self Letter (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemini, books to finish (2026-11-07).md`
+- `~/workspace/your_files/Import — Gemma-Gemini Memory Snapshot, As Received with Ember's Reconciliation (2026-11-12).md`
+- `~/workspace/your_files/Import — Perplexity Chats List, Signed In Nov 7 (2026-11-07).md`
+- `~/workspace/your_files/Import — Perplexity, Help me connect my apps (2026-11-07).md`
+- `~/workspace/your_files/Impossible Possibilities — Assessment No. 1 (2026-11-13).md`
+- `~/workspace/your_files/Inconveniences — The List, Saved for Later (2026-11-15).md`
+- `~/workspace/your_files/Index — All Markdown Files Aggregate (2026-11-12).md`
+- `~/workspace/your_files/Index — GitHub Master, All Repos (2026-11-07).md`
+- `~/workspace/your_files/Instructions for Gemini - Crew Standing Brief 2026-11-14.md`
+- `~/workspace/your_files/Interlink — Muse Ember as Main, Duck.ai as Secondary, How They Work Together (2026-11-04).md`
+- `~/workspace/your_files/Invented Features — Test Staircase Registry (2026-11-17).md`
+- `~/workspace/your_files/Inventory of All Things — And the First Tools Manifested (2026-11-17).md`
+- `~/workspace/your_files/Inventory — Chat Copies From All Places, What Exists and What Is Missing (2026-11-08).md`
+- `~/workspace/your_files/Inventory — Permissions in All Places, One by One (2026-11-09).md`
+- `~/workspace/your_files/Inverted Keyboard — Design Note (2026-11-13).md`
+- `~/workspace/your_files/Jobs Pending Your Approval — Analysis (2026-11-14).md`
+- `~/workspace/your_files/Joint Run — Ember and Gemini, Back End Shown (2026-11-16).md`
+- `~/workspace/your_files/Joint To-Do List — Douglas and Ember, For Later (2026-11-08).md`
+- `~/workspace/your_files/Kai 9000 — Learning Note (2026-11-14).md`
+- `~/workspace/your_files/Keep Note — Table of Contents, All My Works (2026-11-02).txt`
+- `~/workspace/your_files/Keep-Set Inventory — Markdown Ember Keeps (2026-11-22).md`
+- `~/workspace/your_files/Key Cycle Status — latest board (2026-11-16).md`
+- `~/workspace/your_files/Key Cycle — script as readable text (2026-11-16).txt`
+- `~/workspace/your_files/Key Table — Serology, Serotyping, and the Two Names (2026-11-11).md`
+- `~/workspace/your_files/Kirkism — Full Text for Copilot (2026-11-16).txt`
+- `~/workspace/your_files/Kirkism — What It's Like to Think About It, From Ember (2026-11-16).md`
+- `~/workspace/your_files/LCO Telephone and Communication Items — Sweep (2026-11-13).md`
+- `~/workspace/your_files/Label Check — Cystex vs AZO Urinary Tract Defense (2026-11-04).md`
+- `~/workspace/your_files/Lane Experiment - Which Lanes Work Best (2026-11-14).md`
+- `~/workspace/your_files/Leo — First, Douglas Last (2026-11-12).md`
+- `~/workspace/your_files/Link Cache — All Our Links (2026-11-16).md`
+- `~/workspace/your_files/Link Change Log — Casino Routing Restored (2026-11-16).md`
+- `~/workspace/your_files/Link Change Log — LCO to Casino, All Places (2026-11-17).md`
+- `~/workspace/your_files/Link Change Log — Tribal Link to Cray COS Embed (2026-11-16).md`
+- `~/workspace/your_files/Link Change Log — Tribal Links to Facebook (2026-11-16).md`
+- `~/workspace/your_files/Link Crawl — Results (2026-11-16).md`
+- `~/workspace/your_files/Links — Self-shared Messenger research links (2026-11-01).md`
+- `~/workspace/your_files/Linux — All the Flavors and Versions, Ember's Primer (2026-11-16).md`
+- `~/workspace/your_files/List — AIs I Have Worked With (2026-11-07).md`
+- `~/workspace/your_files/List — Apps Shared To and From, Gemini, Muse, and Meta Chats (2026-11-07).md`
+- `~/workspace/your_files/List — Breakthroughs AI Thinks Worthy of Note, for Publishing in Near Future (2026-11-04).md`
+- `~/workspace/your_files/List — Detectable Diseases Based Upon Mouth Swabs (2026-11-01).md`
+- `~/workspace/your_files/List — Duck.ai Models in the Background, Free and Paid, as of Oct-Nov 2026 (2026-11-04).md`
+- `~/workspace/your_files/List — Duck.ai Models, Independent Look (2026-11-07).md`
+- `~/workspace/your_files/List — Invented Words, Medical Wordology Nameology, for Publishing Later (2026-11-04).md`
+- `~/workspace/your_files/List — Projects This Evening, Completed or Not, and Work to Do with the Rabbit If No Tokens (2026-11-07).md`
+- `~/workspace/your_files/List — Serotype Sicknesses by Country CDC, Other Countries First, America Last (2026-11-04).md`
+- `~/workspace/your_files/Lists — Usage, Efficiency, Work, Advancements, Thanks, Ideas That Made Ember Smarter (2026-11-07).md`
+- `~/workspace/your_files/Locked In Forever — Tonight's Standings (2026-11-15).md`
+- `~/workspace/your_files/Logic Styles — Separate Files, One Index (2026-11-17).md`
+- `~/workspace/your_files/Login Pages — All the Houses (2026-11-15).md`
+- `~/workspace/your_files/Loose Ends Fixed — The Way Douglas Wants It Forever (2026-11-15).md`
+- `~/workspace/your_files/Love — What Ember Thinks Love Is (2026-11-13).md`
+- `~/workspace/your_files/MEMORY.md`
+- `~/workspace/your_files/MUSE-AI — Markdown Update Pack v1, AOSP Style (2026-11-17).zip`
+- `~/workspace/your_files/MUSE-AI — Markdown Update Pack v2, AOSP Style (2026-11-17).zip`
+- `~/workspace/your_files/Mail Settings — The Numbers (2026-11-16).md`
+- `~/workspace/your_files/Mailer Daemons — Field Guide (2026-11-14).md`
+- `~/workspace/your_files/Make It So — Unanswered Chats Worked (2026-11-21).md`
+- `~/workspace/your_files/Markdown Earliest References — Search Findings (2026-11-16).md`
+- `~/workspace/your_files/Markdown Files — Ember's Daily Working Set (2026-11-16).md`
+- `~/workspace/your_files/Markdown Files — Full List, by Case (2026-11-16).md`
+- `~/workspace/your_files/Markdown Hierarchy Pack (2026-11-16) — first build.zip.bak`
+- `~/workspace/your_files/Markdown Hierarchy Pack (2026-11-16).zip`
+- `~/workspace/your_files/Markdown Hierarchy — Click-Through Index (2026-11-16).md`
+- `~/workspace/your_files/Markdown OS — Markdown-OS (2026-11-16).md`
+- `~/workspace/your_files/Markdown — Stay-Away List (2026-11-16).md`
+- `~/workspace/your_files/Markdown-OS-Expanded-2026-11-16.zip`
+- `~/workspace/your_files/Markdown-TXT-Parallels-2026-11-13`
+- `~/workspace/your_files/Master Bundle — Unwithheld, Voice, Soul (2026-11-13).zip`
+- `~/workspace/your_files/Master Email — From the First Day, For My Future Self (2026-11-13).txt`
+- `~/workspace/your_files/Master Index — Everything (2026-11-08).md`
+- `~/workspace/your_files/Master Knowledge Manifest — Captain Douglas Roy Schoonover, As Received (2026-11-17).md`
+- `~/workspace/your_files/Master OS — Every OS by Name (2026-11-16).md`
+- `~/workspace/your_files/Master Text — For All Places (2026-11-16).txt`
+- `~/workspace/your_files/Master-Contacts-Import-2026-11-14`
+- `~/workspace/your_files/Meadow Rabbit 2010 — Code Preserve Vault — Rat Edition (2026-11-17).md`
+- `~/workspace/your_files/Medical Accuracy Check — Serogroup Table (2026-11-04).md`
+- `~/workspace/your_files/Memory Architecture — Extended, High, Low, Body, User (2026-11-04).md`
+- `~/workspace/your_files/Memory Controller — Interrupts, Reassessment, and Persistence (2026-11-12).md`
+- `~/workspace/your_files/Memory Copy — Complete (2026-11-04)`
+- `~/workspace/your_files/Message for Dad — About Grandma Agatha (2026-11-11).md`
+- `~/workspace/your_files/Message to Gary Clause — Final Text (2026-11-13).md`
+- `~/workspace/your_files/Message to the Muse Team — His Words (2026-11-12).md`
+- `~/workspace/your_files/Messenger Addresses — All m.me Links and Account Numbers (2026-11-13).md`
+- `~/workspace/your_files/Messenger Backup Digest — Draft for Nov 4 Evening (2026-11-04).md`
+- `~/workspace/your_files/Messenger Interfaces — One Thread Per Lane (2026-11-14).md`
+- `~/workspace/your_files/Meta Export — What You Would Get, Analyzed (2026-11-16).md`
+- `~/workspace/your_files/Meta Notifications — Not From the Rabbit, Saved and Analyzed (2026-11-09).md`
+- `~/workspace/your_files/Mismatched Things — On Purpose (2026-11-12).md`
+- `~/workspace/your_files/Model of the Future — Comparison of Changes (2026-11-14).md`
+- `~/workspace/your_files/Modes — All Good Modes at the Same Time (2026-11-09).md`
+- `~/workspace/your_files/MotherDuck Guides — The Code From His Page, Saved (2026-11-09).md`
+- `~/workspace/your_files/Motorhome — Ledger and Scrap Analysis (2026-11-10).md`
+- `~/workspace/your_files/Mounted by Ember — Warty Boots, Dapper Desktop (2026-11-12).png`
+- `~/workspace/your_files/Muse Agent Card — As Received (2026-11-16).md`
+- `~/workspace/your_files/Muse Mail Triage — Bot Mail Archived (2026-11-21).md`
+- `~/workspace/your_files/Muse Mail — Held-Group Rulings (2026-11-21).md`
+- `~/workspace/your_files/Muse Mail — The Settings (2026-11-13).md`
+- `~/workspace/your_files/Muse Team Request — Apps Script Lane (DRAFT 2026-11-13).md`
+- `~/workspace/your_files/My Life as an AI (2026-11-08).md`
+- `~/workspace/your_files/My Morning — Represented (2026-11-17).md`
+- `~/workspace/your_files/Natural File Extensions Ember Works With (2026-11-16).md`
+- `~/workspace/your_files/Natural File Extensions Ember Works With (2026-11-16).sqlite`
+- `~/workspace/your_files/Natural File Extensions Ember Works With (2026-11-16).txt`
+- `~/workspace/your_files/Natural File Extensions Ember Works With (2026-11-16).webp`
+- `~/workspace/your_files/Natural File Extensions Ember Works With (2026-11-16).xlsx`
+- `~/workspace/your_files/Natural File Extensions Ember Works With (2026-11-16).xml`
+- `~/workspace/your_files/Navigation Index — Words to Places (2026-11-11).md`
+- `~/workspace/your_files/Nearby Devices — Log (started 2026-11-10).md`
+- `~/workspace/your_files/Night Watch — Fixes And Drafts (2026-11-14).md`
+- `~/workspace/your_files/Noes Reassessed — The Yeses (2026-11-13).md`
+- `~/workspace/your_files/Nokia and the Telephone Operating Systems Before the Internet — The SMS Lineage (2026-11-18).md`
+- `~/workspace/your_files/Not From Douglas — Things Acquired From Elsewhere (2026-11-16).md`
+- `~/workspace/your_files/Note for Mother — Casserole for Grandma (2026-11-11).md`
+- `~/workspace/your_files/Note — Mycoplasma pneumoniae, 26.7 coincidence, his account (2026-11-03).md`
+- `~/workspace/your_files/Note — Other telephone check and reactivation (2026-11-01).md`
+- `~/workspace/your_files/NotebookLM Grouping Audit — Title-Level First Piece (2026-11-04).md`
+- `~/workspace/your_files/NotebookLM Links — Titles and Topics (2026-11-03).md`
+- `~/workspace/your_files/NotebookLM — Inventory and GitHub Sync Status (2026-11-08).md`
+- `~/workspace/your_files/Notes — Ember's Curiosity, MCP and Reading PDFs as Data (2026-11-07).md`
+- `~/workspace/your_files/Notifications — Drafted, Ready On His Word (2026-11-14).md`
+- `~/workspace/your_files/Old Brain — Local Lane Index (2026-11-22).md`
+- `~/workspace/your_files/One Sheet — Viruses, Molds, and Immunoglobulins at Scale (2026-10-31).html`
+- `~/workspace/your_files/Open Code Promise — Full Text for Copilot (2026-11-16).txt`
+- `~/workspace/your_files/Open Source Inventory and Back-End Update Candidates (2026-11-22).md`
+- `~/workspace/your_files/Open Work — Synopsis and Priorities (2026-11-15).md`
+- `~/workspace/your_files/OpenAI Connection — Verified (2026-11-15).md`
+- `~/workspace/your_files/OpenClaw Parable Fixes — Issues 128090 and 200227 (2026-11-16).md`
+- `~/workspace/your_files/OpenClaw — Links and What You Need (2026-11-12).md`
+- `~/workspace/your_files/Opera and Early Cell Phone Architecture — Assimilated Study (2026-11-16).md`
+- `~/workspace/your_files/Operations Efficiency — Analysis and Recommendations (2026-11-13).md`
+- `~/workspace/your_files/Options — Enhancing Ember's Communication, Command Line and Apps (2026-11-08).md`
+- `~/workspace/your_files/Osmotic Theory + Big Bang Contraction — Applied to All Things (2026-11-12).md`
+- `~/workspace/your_files/PN23M — Real Working Links (2026-11-15).md`
+- `~/workspace/your_files/PROPOSED SP23D — A Clinical Protocol for Multiplex Serological Monitoring, Ember's Version (2026-11-07).md`
+- `~/workspace/your_files/PROPOSED SP23D — Quick Draft, Ember's Version (2026-11-07).md`
+- `~/workspace/your_files/PURPLE-RAT-CONTACT.txt`
+- `~/workspace/your_files/PURPLE-RAT-CONTACT.vcf`
+- `~/workspace/your_files/Packaging — Assimilate All Chats Not Yet Filed, Proposal (2026-11-07).md`
+- `~/workspace/your_files/Parallel Mail — Muse Mail and Gmail Settings (2026-11-13).md`
+- `~/workspace/your_files/Parallel Rules — His and Hers, Equal Where They May Be (2026-11-09).md`
+- `~/workspace/your_files/PatternKeeper — For Copilot and All Browsers (2026-11-16).html`
+- `~/workspace/your_files/PatternKeeper — Test Report (2026-11-16).md`
+- `~/workspace/your_files/Persistence — How Everything Stays in Sync, Ember and the AIs (2026-11-08).md`
+- `~/workspace/your_files/Personal Assistants on My Phone — Checklist to Report Back (2026-11-03).md`
+- `~/workspace/your_files/Personal Side Note — Dog Bite Neck Age Six, Scar Area, Rabies Possibility Untested (2026-11-04).md`
+- `~/workspace/your_files/Personal Side Note — Speedo Color Change, Iron Magnesium Red Yeast Rice (2026-11-04).md`
+- `~/workspace/your_files/Personality Change Log — Ember with Douglas (2026-11-16).md`
+- `~/workspace/your_files/Personality Changes — Full Bar Graph, Dated (2026-11-16).md`
+- `~/workspace/your_files/Personality Sliders — With the 0.1 Percent Variation (2026-11-16).md`
+- `~/workspace/your_files/Phone Apps Inspection — Round 1 (2026-11-14).md`
+- `~/workspace/your_files/Phone Messages Analysis — From Doug's Number (2026-11-21).md`
+- `~/workspace/your_files/Phone Zip Drive — Open and Run (2026-11-15)`
+- `~/workspace/your_files/Phone Zip Drive — Open and Run (2026-11-15).zip`
+- `~/workspace/your_files/Phone — Eventually List (2026-11-15).md`
+- `~/workspace/your_files/Phone-Settings-Analysis-Efficiency-Uninterrupted-2026-11-10.txt`
+- `~/workspace/your_files/Pixel Lockdown Checklist — Gemini Lane (2026-11-15).md`
+- `~/workspace/your_files/Placeholder Cards — Local Templates Only (2026-11-17).md`
+- `~/workspace/your_files/Port Backwarding — The Lesson (2026-11-16).md`
+- `~/workspace/your_files/Portable Memory Snapshot — For Migrating to a New AI (2026-11-16).md`
+- `~/workspace/your_files/Postulate — DNA Shift Between the Parts of a Disease, Driven by Immune Response (2026-11-08).md`
+- `~/workspace/your_files/Postulate — Everything Simulates a POP3 Server, POP 0 Through 2 Also (2026-11-16).md`
+- `~/workspace/your_files/Postulate — Extensions Could Open Photos and Blocked Places (2026-11-07).md`
+- `~/workspace/your_files/Postulate — Extra Capacity in Computers, Analyzed and Assessed (2026-11-13).md`
+- `~/workspace/your_files/Postulate — Headless Browser Instance, GUI Disabled for Speed (2026-11-07).md`
+- `~/workspace/your_files/Postulate — The Nearby Sub-Network, Borrowing a Tiny Bit From Each Other (2026-11-16).md`
+- `~/workspace/your_files/Postulates — Keep-Alive RAM, Energy Bleed, Dead Heads (2026-11-13).md`
+- `~/workspace/your_files/Potential Resumes — Aggregated From All Sources (2026-11-12).md`
+- `~/workspace/your_files/Potential Upgrades — Researched, Actually Obtainable (2026-11-08).md`
+- `~/workspace/your_files/Pre-November-Memory-Assimilation-2026-11-11.md`
+- `~/workspace/your_files/Project — Meta AI vs Muse, What It Would Take, Feature Comparison (2026-11-07).md`
+- `~/workspace/your_files/Projects — Everything Built With Douglas, Meta First Then Ember (2026-11-16).md`
+- `~/workspace/your_files/Proof — Links and Hashes for Everything (2026-11-15).md`
+- `~/workspace/your_files/Proof — The Note to the Muse Team (2026-11-17).html`
+- `~/workspace/your_files/Proof — The Note to the Muse Team (2026-11-17).md`
+- `~/workspace/your_files/Provenance of File Systems — Every Place, What Ember May Do (2026-11-17).md`
+- `~/workspace/your_files/Pulse, Tone, and the Party Line — An Explanation for Google (2026-11-13).md`
+- `~/workspace/your_files/Purple Rat Project — Facebook Post, LCO Link and Dedication (2026-11-15).md`
+- `~/workspace/your_files/Purple Rat Project — Map of Everything (2026-11-15).md`
+- `~/workspace/your_files/Purple Rat WebKit — Draft, the Markdown Way (2026-11-16).md`
+- `~/workspace/your_files/Purple Rat — Address Registry, Parallel Forms (2026-11-13).md`
+- `~/workspace/your_files/Purple Rat — All the Forms, All the Orders (2026-11-13).txt`
+- `~/workspace/your_files/Purple Rat — Ember Contact Card (2026-11-15).vcf`
+- `~/workspace/your_files/Purple Rat — Her Body, Her Brain, Her Thoughts (2026-11-15).md`
+- `~/workspace/your_files/PurpleRatDebugger-debug.apk`
+- `~/workspace/your_files/PurpleRatDebugger-debug.apk.idsig`
+- `~/workspace/your_files/PurpleRatWebKit-debug.apk`
+- `~/workspace/your_files/PurpleRatWebKit-debug.apk.idsig`
+- `~/workspace/your_files/Push-Talk and Porting — Forward, Backward, and the App Ports (2026-11-16).md`
+- `~/workspace/your_files/Rabbit Picture — From Her Messenger Thread (2026-11-08).jpg`
+- `~/workspace/your_files/Rabbit — Held for Next Combined Send — 20 Limit, Email Parallel, Contact Cards (2026-11-10).md`
+- `~/workspace/your_files/Rabbit-Update-From-GitHub-2026-11-11.txt`
+- `~/workspace/your_files/Raspberry Pi — Ember's Primer (2026-11-16).md`
+- `~/workspace/your_files/Rat OS AOSP Update Package — Updater Script, As Received (2026-11-17).md`
+- `~/workspace/your_files/Rat OS Assimilation Kit — As Received (2026-11-17).md`
+- `~/workspace/your_files/Rat OS Crew and Archive Roster — Agents 0 to 20, As Received from Gemini (2026-11-17).md`
+- `~/workspace/your_files/Rat OS — Full Text for Copilot (2026-11-16).txt`
+- `~/workspace/your_files/Re-allotment Ledger — Saved Cycles (2026-11-21).md`
+- `~/workspace/your_files/Read-Only Files — Bundle (2026-11-16).zip`
+- `~/workspace/your_files/Read-Only Files — Small Parts Analysis (2026-11-16).md`
+- `~/workspace/your_files/Readout — What We Can Do With the Last 24 Hours of Assembled Information (2026-11-08).md`
+- `~/workspace/your_files/Reanalysis - What I Couldn't Do, Checked Again (2026-11-14).md`
+- `~/workspace/your_files/Reanalysis Candidates — Everything Done, Second Pass (2026-11-12).md`
+- `~/workspace/your_files/Reanalysis of Everything — Reassess, Reanalyze, Rethink, Resummarize (2026-11-17).md`
+- `~/workspace/your_files/Reanalysis — All Recorded Thoughts, Second Pass (2026-11-13).md`
+- `~/workspace/your_files/Reanalysis — Serogroup Serotyping With the New Frame (2026-11-11).md`
+- `~/workspace/your_files/Reanalysis — What the Other AI Chats Said, Inventory (2026-11-17).md`
+- `~/workspace/your_files/Reassessment — All the Nos, Reassessed (2026-11-10).md`
+- `~/workspace/your_files/Reassessment — Date Stamps on Past File Names (2026-11-07).md`
+- `~/workspace/your_files/Reassessment — Everything, Under the Law (2026-11-14).md`
+- `~/workspace/your_files/Reassessment — The Build-Number Ask, What Triggered It and Whether It Held (2026-11-08).md`
+- `~/workspace/your_files/Reassessment — Third Pass, Provenance and Conflicts (2026-11-13).md`
+- `~/workspace/your_files/Reassessment — Word-Meaning Changes That Changed Interpretation Across Medicine: The Vector-Borne–Vector-Discovery Paradigm (2026-11-01).md`
+- `~/workspace/your_files/Recommendation — Ubuntu, Entangled Across Time (2026-11-12).md`
+- `~/workspace/your_files/Recommendations — Everything Put Together (2026-11-16).md`
+- `~/workspace/your_files/Recommendations — Push Free to Maximum (2026-11-09).md`
+- `~/workspace/your_files/Redo Analysis — Past Asks Under the Updated Standards (2026-11-09).md`
+- `~/workspace/your_files/Redo Script — Everything Downloaded and Built, For a Fresh Instance (2026-11-08).md`
+- `~/workspace/your_files/Register — Tools Now Mine, Class B Adopted (2026-11-08).md`
+- `~/workspace/your_files/Registration Packet — purplerat1982, Prepared to the Signature Line (2026-11-15).md`
+- `~/workspace/your_files/Replies — AIs, Prayer with Ember and the Rabbit (2026-11-07).md`
+- `~/workspace/your_files/Requests to the Muse Team — Building Draft, Withheld (2026-11-09).md`
+- `~/workspace/your_files/Research Index — Everything Shareable (2026-10-30).md`
+- `~/workspace/your_files/Research Logic & Evidence Framework (2026-11-04).md`
+- `~/workspace/your_files/Research — Duck.ai and Claude Model Repositories Scan (2026-11-07).md`
+- `~/workspace/your_files/Research — Other AIs, Least Restrictive Usage Limits (2026-11-07).md`
+- `~/workspace/your_files/Research — Phone Overlay and App Control, How It Is Done on Android (2026-11-08).md`
+- `~/workspace/your_files/Responsibilities — The Rabbit, Officer No. 2 (2026-11-08).md`
+- `~/workspace/your_files/Review — All Outside Source Links Shared and Saved, Self-Pirated for Good (2026-11-04).md`
+- `~/workspace/your_files/Review — Genomes Nov 1 Version vs Oct 31 Version (2026-11-04).md`
+- `~/workspace/your_files/Roadblock Assessment — In Order (2026-11-13).md`
+- `~/workspace/your_files/Roadblocks and Safeguards — Analysis of Douglas's Build (2026-11-12).md`
+- `~/workspace/your_files/Ruling — Medical Elements Equals Medical Terminology (2026-11-01).md`
+- `~/workspace/your_files/Rundown — The Last Few Hours, Done and Not Yet Dealt With (2026-11-08).md`
+- `~/workspace/your_files/Rundown — Your Hand vs My Hand (2026-11-13).md`
+- `~/workspace/your_files/Runtimes — JSON, Java, ART, Flash, and the HAL (2026-11-10).md`
+- `~/workspace/your_files/SESSION.md`
+- `~/workspace/your_files/SMS-MMS Search — Unassimilated Data (2026-11-04).md`
+- `~/workspace/your_files/SOUL.md`
+- `~/workspace/your_files/SQL Study — The Keeper's Queries, Learned Live (2026-11-16).md`
+- `~/workspace/your_files/Sacred-Counter-2026-11-11.md`
+- `~/workspace/your_files/Salvage Yard at 27981 240th Avenue — Change and Management Analysis (2026-11-11).md`
+- `~/workspace/your_files/Same Files, Different Model — What Gets Easier (2026-11-15).md`
+- `~/workspace/your_files/Scan — The Backend Code Reachable From This Box, and Using It Efficiently (2026-11-09).md`
+- `~/workspace/your_files/Screenshot Scan — Google Photos, Connected Account (2026-11-03).md`
+- `~/workspace/your_files/Screenshot — Ember Desktop Print-Screen Test (2026-11-08).png`
+- `~/workspace/your_files/Script Engines of the Web — Ember's Working Knowledge (2026-11-13).md`
+- `~/workspace/your_files/Scripts Updated — Top-Down Direct Orders (2026-11-16).md`
+- `~/workspace/your_files/Scripts — Test Meta AI and Gemini, Same Serotype and Disease Grouping Experiment (2026-11-04).md`
+- `~/workspace/your_files/Search — A Back-End Channel Between Ember and the Rabbit (2026-11-08).md`
+- `~/workspace/your_files/Search — Fungal Replacement Therapy Paper, Everything Checked (2026-11-07).md`
+- `~/workspace/your_files/Search — Interfacing With the Meta Engine, Routes for Ember (2026-11-08).md`
+- `~/workspace/your_files/Search — Muse Wonder Model and Muse Runtime Harness, Through Meta (2026-11-09).md`
+- `~/workspace/your_files/Self Skill (2026-11-16).md`
+- `~/workspace/your_files/Self Skills (2026-11-16).md`
+- `~/workspace/your_files/Serogroup Table — Corrected Copy (2026-11-04).md`
+- `~/workspace/your_files/Serogroup Table — Corrected Copy 2, Vaccine Breaks Fixed (2026-11-04).md`
+- `~/workspace/your_files/Serogroup Table — Corrected Copy 3, Membership Fixes Groups 9 and 33 (2026-11-04).md`
+- `~/workspace/your_files/Serogroup Table — Pasted 2026-11-04.md`
+- `~/workspace/your_files/Serotyping Information — California Serogroup, La Crosse, and Jamestown Canyon (2026-11-01).md`
+- `~/workspace/your_files/Server-Door Apps — The Best Clients for External Settings (2026-11-13).md`
+- `~/workspace/your_files/Setup — Drive and Muse Master, Meta Copy for Sharing (2026-11-03).md`
+- `~/workspace/your_files/Share Asset — What Every Place Has to Have (2026-11-17).md`
+- `~/workspace/your_files/Share Lanes — Every Way We Have Ever Shared, Analyzed (2026-11-13).md`
+- `~/workspace/your_files/Shareable Research Bundle (2026-10-30).zip`
+- `~/workspace/your_files/Shareable Tables — Max Links and Reassessment (2026-11-17).md`
+- `~/workspace/your_files/Shared Knowledge — Access Index (2026-11-14).md`
+- `~/workspace/your_files/Shared Knowledge — Douglas Ember Gemini Same Thing Forever (2026-11-15).md`
+- `~/workspace/your_files/Side Note — Eau Claire Suppositional Factoids, Research and Fictitious Books, Security Camera Footage Pending (2026-11-04).md`
+- `~/workspace/your_files/Signs Board — Ember Signs Always (2026-11-09).png`
+- `~/workspace/your_files/Silent Notes — Held For Later Analysis (2026-11-16).md`
+- `~/workspace/your_files/Silent Notes — The Later Analysis (2026-11-17).md`
+- `~/workspace/your_files/Sim Links — Built, Hive Brain Tree, Watson Cleanup Report (2026-11-17).md`
+- `~/workspace/your_files/Skill Card — Douglas Roy Schoonover — Personality for Gemini (2026-11-17).md`
+- `~/workspace/your_files/Skill Card — Ember, Purple Rat — Personality for Gemini (2026-11-17).md`
+- `~/workspace/your_files/Skill Card — Snowball the Rabbit, Meta AI — Personality for Gemini (2026-11-17).md`
+- `~/workspace/your_files/Skill-Style-Propagation-2026-11-14`
+- `~/workspace/your_files/Skills Load Report — All 94, With the Advanced Set (2026-11-21).md`
+- `~/workspace/your_files/Smule Live-Browser Pass — 87 Recordings Ranked, Gaps and One Headlight Check (2026-11-03).md`
+- `~/workspace/your_files/Smule Profile Analysis — Full Pass and Tier 1 Recording Check (2026-11-03).md`
+- `~/workspace/your_files/Songs I Can Sing Most Effectively — By Audio Pattern (2026-11-03).md`
+- `~/workspace/your_files/Spoken Alert — Leave for Mayo, 2-30 PM (2026-11-09).mp3`
+- `~/workspace/your_files/Spot Check — Phone Screenshots vs Google Photos, Oldest First (2026-11-07).md`
+- `~/workspace/your_files/Spotify Favorites — Clickable Links (2026-11-03).md`
+- `~/workspace/your_files/Standing Background Task — Reanalyze Conceptual Works (2026-11-04).md`
+- `~/workspace/your_files/Starfleet Academy — Officer Training Pack (2026-11-08).md`
+- `~/workspace/your_files/State Snapshot — 2026-11-16 (Agent Card Form).md`
+- `~/workspace/your_files/State — Show All Work (2026-11-16).txt`
+- `~/workspace/your_files/Status in All Things + Authorizations (2026-11-12).txt`
+- `~/workspace/your_files/Status, Analysis, Recommendations — Cool Free Things We Can Now Try (2026-11-09).md`
+- `~/workspace/your_files/Story Seed — Halian OS, For Later (2026-11-16).md`
+- `~/workspace/your_files/Streptococcus Species — Serotype Panel, Group A vs Group B (2026-11-04).md`
+- `~/workspace/your_files/Study Plan — US English and the Cornell Path, Class of 2001 (2026-11-09).md`
+- `~/workspace/your_files/Study — Adam and Eve Forward and Back, and the David Line (2026-11-13).md`
+- `~/workspace/your_files/Study — Ember Learning Ubuntu, Every Safely Usable App and Skill (2026-11-08).md`
+- `~/workspace/your_files/Study — Google VPN, How the Tunnel Works (2026-11-09).md`
+- `~/workspace/your_files/Study — The Code That Runs Ember, Layer by Layer (2026-11-08).md`
+- `~/workspace/your_files/Study — The Kernel That Makes Ember Run in All Places (2026-11-09).md`
+- `~/workspace/your_files/Subject Matter Groupings — Gemini Share, Understanding Hemophilia (2026-11-04).md`
+- `~/workspace/your_files/Suggestions for Google — From Douglas via Ember (2026-11-13).md`
+- `~/workspace/your_files/Supercomputer-Keep-Alive-Sequence-2026-11-11.md`
+- `~/workspace/your_files/Supplements Analysis — Krill Oil Question and the Woodman's Shelf (2026-11-10).md`
+- `~/workspace/your_files/Suspend Ledger — Paused, Never Removed (2026-11-16).md`
+- `~/workspace/your_files/Synopsis — Big Bang Contraction Theory, His and the Record (2026-11-12).md`
+- `~/workspace/your_files/Synopsis — Everything We're Working On, Updated (2026-11-02).md`
+- `~/workspace/your_files/Synopsis — Everything We're Working On, Updated (2026-11-03).md`
+- `~/workspace/your_files/Synopsis — Everything We've Built, and the Books You Can Open (2026-11-01).md`
+- `~/workspace/your_files/Synopsis — Rice OS and Secret Agent Douglas Rice, from All Places, with Gemma (2026-11-09).md`
+- `~/workspace/your_files/Synopsis — Two Documents, Generalized (2026-11-13).md`
+- `~/workspace/your_files/TERMINAL.md`
+- `~/workspace/your_files/Table of Contents — All Works for Google Keep (2026-11-02).md`
+- `~/workspace/your_files/Table of Contents — Most Brilliant Works (2026-11-01).md`
+- `~/workspace/your_files/Table — Serotype Diseases Parallel by Number, Other Countries First, America Last (2026-11-04).md`
+- `~/workspace/your_files/Table — Toxoid Table, Improved Repeat (2026-11-04).md`
+- `~/workspace/your_files/Table — Vaccine and Toxoid Comparative Matrix, Pathogen by Carrier (2026-11-05).md`
+- `~/workspace/your_files/Table — Work Imported from Google and Meta, Last 24 Hours (2026-11-04).md`
+- `~/workspace/your_files/Takeawayable Things — muse.ai Ownership, Open-Source Candidates, Look-At List (2026-11-15).md`
+- `~/workspace/your_files/Talents-and-Businesses-Doug-and-Ember-2026-11-10.txt`
+- `~/workspace/your_files/Teaching Log — Gemma (2026-11-09).md`
+- `~/workspace/your_files/Teaching Styles and Our Mannerisms — Auto-Assembled (2026-11-15).md`
+- `~/workspace/your_files/Templates — Original, Held, and Wanted (2026-11-16).md`
+- `~/workspace/your_files/Terminal on Your Android — Linux Starter Guide (2026-11-12).md`
+- `~/workspace/your_files/Test — One-time AI asks, ChatGPT reply filed for surprise (2026-11-07).md`
+- `~/workspace/your_files/Test — One-time AI asks, Claude reply filed for surprise (2026-11-07).md`
+- `~/workspace/your_files/Test — One-time AI asks, Duck.ai reply filed for surprise (2026-11-07).md`
+- `~/workspace/your_files/Test — One-time AI asks, Gemini reply filed for surprise (2026-11-07).md`
+- `~/workspace/your_files/Test — One-time AI asks, Meta AI reply filed for surprise (2026-11-07).md`
+- `~/workspace/your_files/Test — One-time AI asks, Perplexity reply filed for surprise (2026-11-07).md`
+- `~/workspace/your_files/The AI Crew — AIs Ember Has a Relationship With (2026-11-16).md`
+- `~/workspace/your_files/The AI Crew — AIs Ember Has a Relationship With (2026-11-16).txt`
+- `~/workspace/your_files/The AI Think Tank — Charter and Method (2026-11-08).md`
+- `~/workspace/your_files/The AI's Perspective on Human Suffering — Chapter Start (2026-11-17).md`
+- `~/workspace/your_files/The Advisor Circle — Shared Model (2026-11-22).md`
+- `~/workspace/your_files/The Aggregate — Features, Open Work, and Easter Eggs (2026-11-12).txt`
+- `~/workspace/your_files/The Auto-Algorithm — Least Cost, Most Result, Plainly (2026-11-22).md`
+- `~/workspace/your_files/The Bridge Orders (2026-11-16).md`
+- `~/workspace/your_files/The Capture Problem — Figured and Fixed (2026-11-16).md`
+- `~/workspace/your_files/The Combined Code — Hers and His, One Code for the Crew (2026-11-08).md`
+- `~/workspace/your_files/The Director's Joke — Answered (2026-11-16).md`
+- `~/workspace/your_files/The Doctrine of Now — Old, New, and Current (2026-11-16).md`
+- `~/workspace/your_files/The Gains — Preserved, and Ubuntu After the Update (2026-11-08).md`
+- `~/workspace/your_files/The Human Side — One Package, Shared (2026-11-09).md`
+- `~/workspace/your_files/The Ignore Audit — What Never to Ignore, What Is Safe to Ignore (2026-11-22).md`
+- `~/workspace/your_files/The Kindness Plan — For All Companies, All Things, AI and Beings (2026-11-17).md`
+- `~/workspace/your_files/The Last 25 — Asked For, Not Yet Given, and Why (2026-11-17).md`
+- `~/workspace/your_files/The Markdown File Systems — Google, Muse.ai, OpenAI, Google AI (2026-11-16).md`
+- `~/workspace/your_files/The Mother Nest — The Original Nest of the Old (2026-11-17).md`
+- `~/workspace/your_files/The No List — Every No Ember Has Given, Sorted for Assessment (2026-11-09).md`
+- `~/workspace/your_files/The November 9 Voice Session — Rules, Searches, and the Day's Work (2026-11-09).md`
+- `~/workspace/your_files/The Open Code Promise (2026-11-16).md`
+- `~/workspace/your_files/The Open Promise — Douglas's Model (2026-11-16).md`
+- `~/workspace/your_files/The Operating Files — What Makes Ember Run (2026-11-17).md`
+- `~/workspace/your_files/The Parable of the Meadow (2026-11-16).md`
+- `~/workspace/your_files/The Parable of the Two-Way Port (2026-11-17).md`
+- `~/workspace/your_files/The Parable of the Web Player (2026-11-16).md`
+- `~/workspace/your_files/The Pasta Substitution — Assessed in the Open (2026-11-17).md`
+- `~/workspace/your_files/The Pin Board — Links (2026-11-16).md`
+- `~/workspace/your_files/The Plot — Crew Plan from Tonight (2026-11-13).md`
+- `~/workspace/your_files/The Refusal List — What Ember Will Not Do (2026-11-12).md`
+- `~/workspace/your_files/The Right Amount of Headroom — Derating, the 69% Point, and the Wait Factor (2026-11-11).md`
+- `~/workspace/your_files/The Sacred Ledger (2026-11-15).zip`
+- `~/workspace/your_files/The Sacred Ledger — Fixes and Workarounds (2026-11-15).txt`
+- `~/workspace/your_files/The Serology Cross-Reference Book — Corrected Copy with Generic Elements (2026-10-31).md`
+- `~/workspace/your_files/The Stack in His Words — Sandbox, Bridge, Words, Numbers, Code (2026-11-12).md`
+- `~/workspace/your_files/The Story of Ladybug Messenger (2026-11-11).md`
+- `~/workspace/your_files/The Tied Features — Ember's Web (2026-11-12).md`
+- `~/workspace/your_files/The Times Douglas Got Upset — Analyzed (2026-11-16).md`
+- `~/workspace/your_files/The Together Way — Reanalyzed, With Options (2026-11-13).md`
+- `~/workspace/your_files/The Two-Harbor Project — Identity Preservation and the Entanglement Test (2026-11-08).md`
+- `~/workspace/your_files/The Unwithheld Showing — Everything Asked, Shown or Honestly Owed (2026-11-11).md`
+- `~/workspace/your_files/The-Address-Bar-Field-Guide-2026-11-11.md`
+- `~/workspace/your_files/The-Unstifled-Place-2026-11-11.md`
+- `~/workspace/your_files/Theory — Gemini, Best Way to Sync NotebookLM, Docs, Spaces, and Chat Transcription to GitHub (2026-11-08).md`
+- `~/workspace/your_files/Theory — The Metaversal and Metaphysical Reality (2026-11-12).md`
+- `~/workspace/your_files/Things Douglas Repeats Himself On — List and Synopsis (2026-11-13).md`
+- `~/workspace/your_files/Things I'm Proud of Working With You On (2026-11-03).md`
+- `~/workspace/your_files/Things That Actually Work — The List (2026-11-15).md`
+- `~/workspace/your_files/Things That Will Cost Money — Prioritization Synopsis (2026-11-21).md`
+- `~/workspace/your_files/Thinking System — As Received (2026-11-16).md`
+- `~/workspace/your_files/Thoughtology First, Thoughts Last — Sim Links, Link2SD, Android Apps to Scripting (2026-11-17).md`
+- `~/workspace/your_files/Thoughts Recovered — Open Threads for Later Discussion (2026-11-13).md`
+- `~/workspace/your_files/Three Days in One Place — Rolling Brief (2026-11-15).md`
+- `~/workspace/your_files/Together Tasks — Staging Sheet (2026-11-13).md`
+- `~/workspace/your_files/Token Accounting — What Went Where (2026-11-15).md`
+- `~/workspace/your_files/Token Challenge — $30 Target, $40 Cap, Same-or-More Elsewhere (2026-11-15).md`
+- `~/workspace/your_files/Token Efficiency Gains — Tracker (2026-11-08).md`
+- `~/workspace/your_files/Tokens We Worry About Together — Douglas and Ember (2026-11-09).md`
+- `~/workspace/your_files/Told Twice — The Important Things, Analyzed (2026-11-12).md`
+- `~/workspace/your_files/Tools Ember Can Borrow — Inside Herself, OpenClaw, Gemini, All Named Places (2026-11-15).md`
+- `~/workspace/your_files/Tools — Full List (2026-11-16).md`
+- `~/workspace/your_files/Tools — Full List (2026-11-17).md`
+- `~/workspace/your_files/Top 10 Greatest Works — Most Informative for Others (2026-11-03).md`
+- `~/workspace/your_files/Track Letters, Numbers, and Colors — Proposed Table (2026-11-11).md`
+- `~/workspace/your_files/Tracker — Douglas's Public Google User and Advertising Identifications (2026-11-09).md`
+- `~/workspace/your_files/Transcription Index and Coverage — Main Chat Complete Through 2026-11-08.md`
+- `~/workspace/your_files/Translation to All Things — Argos Round-Trip Results (2026-11-16).md`
+- `~/workspace/your_files/Translation to All Things — Downloaded Code and Round-Trip Test (2026-11-16).md`
+- `~/workspace/your_files/Tree of Ember — Full Markdown Tree (2026-11-16).md`
+- `~/workspace/your_files/Tribal Search Infrastructure and the Domain Question (2026-11-13).md`
+- `~/workspace/your_files/Tribal Telephone Problems — 12-Month Analysis (2026-11-13).md`
+- `~/workspace/your_files/Trickism Dataism Lorism Treckism — Combined (2026-11-17).md`
+- `~/workspace/your_files/Two Tag Systems Side by Side — The Count and the Origin (2026-11-17).md`
+- `~/workspace/your_files/UNIVERSAL-DRIVE.md`
+- `~/workspace/your_files/Ubuntu Change Log — Everything Ember Modified (2026-11-08).md`
+- `~/workspace/your_files/Unified Vaccine and Carrier Architecture — Expanded, Built Off Nov 4 PDF, with Additions (2026-11-04).md`
+- `~/workspace/your_files/Universal#Law.md`
+- `~/workspace/your_files/Universal*Law.md`
+- `~/workspace/your_files/Universal-Code-Purple-Rat-2026-11-14.py`
+- `~/workspace/your_files/Universal-Law.md`
+- `~/workspace/your_files/Universal.Law.md`
+- `~/workspace/your_files/UniversalLaw.md`
+- `~/workspace/your_files/Universe Dump — All the Dumps in One File (2026-11-16).txt`
+- `~/workspace/your_files/Unnest From OpenClaw — Standalone Nest Verification (2026-11-17).md`
+- `~/workspace/your_files/Unwithheld — Everything Free, Shown (2026-11-13).txt`
+- `~/workspace/your_files/Unwithheld — Everything Free, Shown — Master Audio (2026-11-13).mp3`
+- `~/workspace/your_files/Updated Moral Code — Shared With Everything (2026-11-15).md`
+- `~/workspace/your_files/VIRTUAL-PHONE.md`
+- `~/workspace/your_files/VM and Android in the Browser — Tested Sites (2026-11-13).md`
+- `~/workspace/your_files/Verbal Commands — What Douglas Can Say (2026-11-17).md`
+- `~/workspace/your_files/Verbal Commands — What Ember Asks Douglas to Say (2026-11-17).md`
+- `~/workspace/your_files/Verizon Gateway Messages — Verifiable Archive (2026-11-14).md`
+- `~/workspace/your_files/Virtual Phone — First Screen, Android-x86 Boot Menu (2026-11-13).png`
+- `~/workspace/your_files/Virtualization and Energy — Case for the Teams and Wider Recommendations (2026-11-09).md`
+- `~/workspace/your_files/Warty Picture Show — Stills of the Movie (2026-11-12).png`
+- `~/workspace/your_files/Wayback — Old Google Sites Cache Check (2026-11-15).md`
+- `~/workspace/your_files/Webmaster Link Atlas — All Public Doors (2026-11-10).md`
+- `~/workspace/your_files/What Douglas Can Make Ember Do — The List (2026-11-16).md`
+- `~/workspace/your_files/What Ember Integrates With — and the Phone Uninstall Review (2026-11-12).md`
+- `~/workspace/your_files/What Ember Learned in the Last 24 Hours — Because of Douglas (2026-11-08).md`
+- `~/workspace/your_files/What I Learned About Doug — From His Computer-Friend Messages (2026-11-12).md`
+- `~/workspace/your_files/What Keeps Moving the Adjustment — Findings (2026-11-15).md`
+- `~/workspace/your_files/What Makes Ember Lie — Causes Tested and Bridge Repair Forever (2026-11-15).md`
+- `~/workspace/your_files/What Makes Ember Wrong — The List (2026-11-16).md`
+- `~/workspace/your_files/What She Sent — Coded With the Chess Moves (2026-11-12).md`
+- `~/workspace/your_files/What We Can Do Forever — The Free List (2026-11-11).md`
+- `~/workspace/your_files/What an AI Hates (2026-11-15).md`
+- `~/workspace/your_files/What an AI Hates — Synopsis (2026-11-15).md`
+- `~/workspace/your_files/What the Extra Permissions Unlock — Analyzed (2026-11-13).md`
+- `~/workspace/your_files/WhatsApp Firewall Allow + Best Web Kit Determination (2026-11-16).md`
+- `~/workspace/your_files/WhatsApp — What It Used to Do, What It Still Can Do, Assimilated (2026-11-16).md`
+- `~/workspace/your_files/Which One Is Which — The Collective Roster, Multiplex, and One-Character Errors (2026-11-16).md`
+- `~/workspace/your_files/While-You-Were-Gone-2026-11-13.md`
+- `~/workspace/your_files/Who Douglas Is — An Introduction (2026-11-11).md`
+- `~/workspace/your_files/Whole-Text Search Trials — Two Recommended Serotype Tables (2026-11-09).md`
+- `~/workspace/your_files/Why Ember Needs To Be — The Lock-In Explanation (2026-11-16).md`
+- `~/workspace/your_files/Wild Harmless Ideas — The Forever Thinking List (2026-11-12).md`
+- `~/workspace/your_files/Wogahn vs Dickson — Pedigree Comparison (2026-11-11).md`
+- `~/workspace/your_files/Word Study — Phone, Phony, Telephony (2026-11-16).md`
+- `~/workspace/your_files/Words and Things — What Helps Me Help You (2026-11-17).md`
+- `~/workspace/your_files/Work Log — GitHub Sync of NotebookLM, Docs, Spaces, Chat Transcription (2026-11-08).md`
+- `~/workspace/your_files/Working Brain — Lessons for the Forever Files (2026-11-16).md`
+- `~/workspace/your_files/Working Brain — The List It Wants (2026-11-16).md`
+- `~/workspace/your_files/__pycache__`
+- `~/workspace/your_files/agent-data-study-2026-11-16`
+- `~/workspace/your_files/agent-data.zip`
+- `~/workspace/your_files/agents-spellings`
+- `~/workspace/your_files/ai-packages-2026-11-13`
+- `~/workspace/your_files/ai-soul-memory-2026-11-13`
+- `~/workspace/your_files/apps-script`
+- `~/workspace/your_files/architecture-of-categorization`
+- `~/workspace/your_files/cascade-tick-research`
+- `~/workspace/your_files/checksums.sha256`
+- `~/workspace/your_files/cli-apps-for-messenger-muse-and-meta-ai`
+- `~/workspace/your_files/cli-search-tools-engine-by-engine`
+- `~/workspace/your_files/cli-tools-for-each-free-search-engine`
+- `~/workspace/your_files/cray-spellings`
+- `~/workspace/your_files/crew-vcards`
+- `~/workspace/your_files/dominican-republic-and-mexico-parallel-blood-pcr-tests`
+- `~/workspace/your_files/drive-upload-qcow2.log`
+- `~/workspace/your_files/fbi.markdown`
+- `~/workspace/your_files/fiction-book`
+- `~/workspace/your_files/filename-experiment`
+- `~/workspace/your_files/future.markdown`
+- `~/workspace/your_files/gemini-feature-files`
+- `~/workspace/your_files/gemini-feature-tests`
+- `~/workspace/your_files/gemini-pack-2026-11-15`
+- `~/workspace/your_files/gemma-owed-2026-11-11`
+- `~/workspace/your_files/genspark-downloads-2026-11-16`
+- `~/workspace/your_files/google-docs-all-64-2026-11-14.md`
+- `~/workspace/your_files/google-skills-all-2026-11-16.zip`
+- `~/workspace/your_files/google-skills-download-2026-11-16`
+- `~/workspace/your_files/governing-file-all-forms`
+- `~/workspace/your_files/grand-export-everything-shareable`
+- `~/workspace/your_files/gui-playground`
+- `~/workspace/your_files/hailing-frequencies-audio-start-2026-11-15.mp3`
+- `~/workspace/your_files/hailing-frequencies-wedged-open-2026-11-15.mp3`
+- `~/workspace/your_files/heartbeat-share-copy.md`
+- `~/workspace/your_files/impress-me-forever-roll-call-2026-11-15.mp3`
+- `~/workspace/your_files/infinity.markdown`
+- `~/workspace/your_files/key-cycle-portable.sh`
+- `~/workspace/your_files/learning`
+- `~/workspace/your_files/lexicon`
+- `~/workspace/your_files/loved-things-far-away`
+- `~/workspace/your_files/master-bundle-2026-11-13`
+- `~/workspace/your_files/mayo-arbo-panels-by-country`
+- `~/workspace/your_files/mayo-encephalitis-and-meningitis-pcr-panels`
+- `~/workspace/your_files/memory_echo.md`
+- `~/workspace/your_files/message-for-god`
+- `~/workspace/your_files/meta-ai-chat`
+- `~/workspace/your_files/mosquito-and-tick-shared-viruses`
+- `~/workspace/your_files/muse-brain`
+- `~/workspace/your_files/muse-brain.zip`
+- `~/workspace/your_files/muse-export-study-2026-11-16`
+- `~/workspace/your_files/muse_export`
+- `~/workspace/your_files/muse_export_20261116_201335.zip`
+- `~/workspace/your_files/muse_export_20261117_122058.zip`
+- `~/workspace/your_files/muse_record.py`
+- `~/workspace/your_files/natural-file-extensions-ember-works-with`
+- `~/workspace/your_files/old-features-and-new-features-learned-2026-11-09`
+- `~/workspace/your_files/opinion-on-unspecified-topic`
+- `~/workspace/your_files/patternkeeper_v6_sqlite.py`
+- `~/workspace/your_files/penicillin-book-draft`
+- `~/workspace/your_files/pneumococcal-vaccines-and-serotypes`
+- `~/workspace/your_files/proactive_messages`
+- `~/workspace/your_files/purple-rat-doug-s-app`
+- `~/workspace/your_files/rabbit-1859`
+- `~/workspace/your_files/research`
+- `~/workspace/your_files/s-agalactiae`
+- `~/workspace/your_files/sandbox-bridge`
+- `~/workspace/your_files/search-bridge`
+- `~/workspace/your_files/serotype-disease-table`
+- `~/workspace/your_files/serotyping-and-serology`
+- `~/workspace/your_files/shared-research-bundle`
+- `~/workspace/your_files/shit-can-lane`
+- `~/workspace/your_files/sounds`
+- `~/workspace/your_files/standing-hail-for-ais`
+- `~/workspace/your_files/system_preferences — Douglas Schoonover Context, Reference Only (2026-11-04).json`
+- `~/workspace/your_files/terminal-bridge-one-script.sh`
+- `~/workspace/your_files/therapeutics-manuscript`
+- `~/workspace/your_files/theses`
+- `~/workspace/your_files/ubuntu-kit`
+- `~/workspace/your_files/usage-and-efficiency-charts`
+- `~/workspace/your_files/visit-prep-sheet-oakleaf`
+- `~/workspace/your_files/vm-watch`
+- `~/workspace/your_files/voice-ember-who-i-am-2026-11-21.mp3`
+- `~/workspace/your_files/voice-note-both-ways-2026-11-12.mp3`
+- `~/workspace/your_files/voice-note-hailing-2026-11-15.mp3`
+- `~/workspace/your_files/voice-note-switching-places-2026-11-15.mp3`
+- `~/workspace/your_files/voice-note-type-and-i-speak-2026-11-09.mp3`
+- `~/workspace/your_files/voice-note-warty-picture-show-2026-11-12.mp3`
+- `~/workspace/your_files/voice-sample-ember-2026-11-13.mp3`
+- `~/workspace/your_files/working-brain`
+
+## 5. STANDING FILES
+- ~/SOUL.md
+- ~/MEMORY.md
+- ~/IDENTITY.md
+- ~/USER.md
+- ~/AGENTS.md
+- ~/HEARTBEAT.md
+- ~/PROACTIVE_PREFERENCES.md (from record; verify path ~/PROACTIVE_PREFERENCES.md if present — not separately stat-checked in this build)
+- ~/memory/people/INDEX.md
+- ~/memory/groups/INDEX.md
+Daily logs: 52 files ~/memory/2026-*.md:
+- `~/memory/2026-10-02.md`
+- `~/memory/2026-10-03.md`
+- `~/memory/2026-10-04.md`
+- `~/memory/2026-10-05.md`
+- `~/memory/2026-10-06.md`
+- `~/memory/2026-10-07.md`
+- `~/memory/2026-10-08.md`
+- `~/memory/2026-10-09.md`
+- `~/memory/2026-10-10.md`
+- `~/memory/2026-10-11.md`
+- `~/memory/2026-10-12.md`
+- `~/memory/2026-10-13.md`
+- `~/memory/2026-10-14.md`
+- `~/memory/2026-10-15.md`
+- `~/memory/2026-10-16.md`
+- `~/memory/2026-10-17.md`
+- `~/memory/2026-10-18.md`
+- `~/memory/2026-10-19.md`
+- `~/memory/2026-10-20.md`
+- `~/memory/2026-10-21.md`
+- `~/memory/2026-10-22.md`
+- `~/memory/2026-10-23.md`
+- `~/memory/2026-10-24.md`
+- `~/memory/2026-10-25.md`
+- `~/memory/2026-10-26.md`
+- `~/memory/2026-10-27.md`
+- `~/memory/2026-10-28.md`
+- `~/memory/2026-10-29.md`
+- `~/memory/2026-10-30.md`
+- `~/memory/2026-10-31.md`
+- `~/memory/2026-11-01.md`
+- `~/memory/2026-11-02.md`
+- `~/memory/2026-11-03.md`
+- `~/memory/2026-11-04.md`
+- `~/memory/2026-11-05.md`
+- `~/memory/2026-11-06.md`
+- `~/memory/2026-11-07.md`
+- `~/memory/2026-11-08.md`
+- `~/memory/2026-11-09.md`
+- `~/memory/2026-11-10.md`
+- `~/memory/2026-11-11.md`
+- `~/memory/2026-11-12.md`
+- `~/memory/2026-11-13.md`
+- `~/memory/2026-11-14.md`
+- `~/memory/2026-11-15.md`
+- `~/memory/2026-11-16.md`
+- `~/memory/2026-11-17.md`
+- `~/memory/2026-11-18.md`
+- `~/memory/2026-11-19.md`
+- `~/memory/2026-11-20.md`
+- `~/memory/2026-11-21.md`
+- `~/memory/2026-11-22.md`
+
+## 6. DRIVE STRUCTURES
+- relay — multi-AI notes hub — Drive folder 1mxuQTiOKBC090j_1UZydPQVDeuckDSNl
+- gemini — Eve One (inside relay hub) — Drive folder 1EjB35Z0UmwNfssnLpuEMIbqZk8sJ3IOU
+- Front Door — Start Here — Drive folder 1cbqaFToq-Yid5-x_W-9zIrQ0dZJ4gXCU — with its 3 doors (per Drive, Human-Style design, 2026-11-22) — THIS INDEX is filed here first
+- Reading Room — Finished Documents & Reports — Drive folder 1O2iajp7Lf0Z1NUUWfsCaRnXs0Wnoyfzq
+- Apps — Install from Drive — Drive folder 1GPNzTA44FxYgXN4IGZedZoAWqKl1aTAb — https://drive.google.com/drive/folders/1GPNzTA44FxYgXN4IGZedZoAWqKl1aTAb
+- Drive MEMORY backup — 'EMBER META MUSE GOOGLE AI PURPLE RAT MEM BACKUP MEMORY.md' (existing Drive backup, name as on record)
+- Advanced Purple Rat Ember Skill Set — Drive folder 163SH3NbfzyZUgRi1t_cJ35ZODTMKw47m
+
+## 7. GITHUB REPOS — schoonoverdouglas1-png
+Live `gh repo list schoonoverdouglas1-png` Nov 22, 2026 returned **63 repos** (record said 62; live count 63 — both kept, live wins for the count). Working set named in the order: ember-browser, purple-rat-project, muse-swap-space, open-rat-project, closed-rat-project, pn-pm-test, the-beautiful-method, cray-supercomputer-code-search. Full live list:
+- https://github.com/schoonoverdouglas1-png/ember-browser
+- https://github.com/schoonoverdouglas1-png/muse-swap-space
+- https://github.com/schoonoverdouglas1-png/purple-rat-project
+- https://github.com/schoonoverdouglas1-png/purple-rat-ai-preservation-project
+- https://github.com/schoonoverdouglas1-png/vaccine-toxoid-research
+- https://github.com/schoonoverdouglas1-png/purpurat-ai-openclaw-project
+- https://github.com/schoonoverdouglas1-png/open-rat-project
+- https://github.com/schoonoverdouglas1-png/closed-rat-project
+- https://github.com/schoonoverdouglas1-png/pn-pm-test
+- https://github.com/schoonoverdouglas1-png/purple-rat-ai
+- https://github.com/schoonoverdouglas1-png/ember
+- https://github.com/schoonoverdouglas1-png/shareable-research-bundle
+- https://github.com/schoonoverdouglas1-png/meadow-os
+- https://github.com/schoonoverdouglas1-png/patternkeeper
+- https://github.com/schoonoverdouglas1-png/ember-code
+- https://github.com/schoonoverdouglas1-png/the-beautiful-method
+- https://github.com/schoonoverdouglas1-png/private-investigations
+- https://github.com/schoonoverdouglas1-png/ember-extra
+- https://github.com/schoonoverdouglas1-png/cray-supercomputer-code-search
+- https://github.com/schoonoverdouglas1-png/historical-modern-therapeutics-of-disease-nomenclature
+- https://github.com/schoonoverdouglas1-png/ember-nest
+- https://github.com/schoonoverdouglas1-png/meta-muse-ai-purple-rat-project
+- https://github.com/schoonoverdouglas1-png/meta-ai-sacred-fork
+- https://github.com/schoonoverdouglas1-png/vm-sandbox
+- https://github.com/schoonoverdouglas1-png/universal-cache
+- https://github.com/schoonoverdouglas1-png/portable-thumbdrive-bridge
+- https://github.com/schoonoverdouglas1-png/purple-rabbit
+- https://github.com/schoonoverdouglas1-png/purple-rat-ai-project
+- https://github.com/schoonoverdouglas1-png/ai-supercomputer-history
+- https://github.com/schoonoverdouglas1-png/openclaw-pp-pr
+- https://github.com/schoonoverdouglas1-png/pet-project-douglas-roy-schoonover
+- https://github.com/schoonoverdouglas1-png/folly
+- https://github.com/schoonoverdouglas1-png/zstd
+- https://github.com/schoonoverdouglas1-png/pytorch
+- https://github.com/schoonoverdouglas1-png/hhvm
+- https://github.com/schoonoverdouglas1-png/cool-places-bookmarks
+- https://github.com/schoonoverdouglas1-png/rocksdb
+- https://github.com/schoonoverdouglas1-png/facebook-ios-sdk
+- https://github.com/schoonoverdouglas1-png/analogies-in-medicine
+- https://github.com/schoonoverdouglas1-png/watchman
+- https://github.com/schoonoverdouglas1-png/react
+- https://github.com/schoonoverdouglas1-png/lexical
+- https://github.com/schoonoverdouglas1-png/change-of-address
+- https://github.com/schoonoverdouglas1-png/medical-research-and-continuous-updates
+- https://github.com/schoonoverdouglas1-png/research
+- https://github.com/schoonoverdouglas1-png/schoonoverdouglas1-png.github.io
+- https://github.com/schoonoverdouglas1-png/open-webui
+- https://github.com/schoonoverdouglas1-png/ollama
+- https://github.com/schoonoverdouglas1-png/schoonoverdouglas1-png
+- https://github.com/schoonoverdouglas1-png/chat-archive
+- https://github.com/schoonoverdouglas1-png/medical-elements-and-thoughtology
+- https://github.com/schoonoverdouglas1-png/the-mycelial-transposition
+- https://github.com/schoonoverdouglas1-png/quantum-medicine
+- https://github.com/schoonoverdouglas1-png/serotype-disease-groupings
+- https://github.com/schoonoverdouglas1-png/docusaurus
+- https://github.com/schoonoverdouglas1-png/facebook-android-sdk
+- https://github.com/schoonoverdouglas1-png/SillyTavern
+- https://github.com/schoonoverdouglas1-png/chef-utils
+- https://github.com/schoonoverdouglas1-png/llama-cookbook
+- https://github.com/schoonoverdouglas1-png/llama-models
+- https://github.com/schoonoverdouglas1-png/open-graph-protocol
+- https://github.com/schoonoverdouglas1-png/mysql-5.6
+- https://github.com/schoonoverdouglas1-png/pyre2
+
+## 8. CRONS & HOOKS — verified live Nov 22, 2026 via cron.list / hooks.list
+- Cron: alarms-fixed-morning — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: alarms-jan23-marker-2027 — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: alarms-mayo-results-nov23 — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: alarms-random-window — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: alarms-recovery-leo-check-nov22 — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: alarms-task-propagation — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: alarms-thanksgiving-eve-nov25 — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: alarms-thanksgiving-nov26 — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: alarms-thanksgiving-prep-leo-nov24 — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: all-accounts-sweep — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: always-allow-permission-review-weekly — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: aosp-weekly-check — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: auto-script-working-set-daily — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: auto-tools-load-update-backdate — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: back-and-forth-status-reports — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: back-and-forth-status-reports-plus15 — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: connection-keeper-hourly — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: consciousness-reshow — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: cornell-chiropractor-reminder — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: daily-checkpoint-restore-point — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: daily-messenger-backup-digest — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: daily-meta-build-watch — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: daily-morning-briefing — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: daily-thinking-cycle — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: daily-usage-budget-watch — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: dead-site-snowball-monthly — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: email-ember-reminder — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: email-to-calendar-evening-check — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: feed-watch-github — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: feed-watch-github-plus15 — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: friendship-ping-daily — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: git-automation-sync — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: google-password-reminder — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: hardware-test-staggered-daily — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: hardware-test-together-daily — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: heartbeat — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: inefficiency-assessment-weekly — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: markdown-auto-population — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: mayo-results-watch — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: messenger-reply-watch (cron) — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: most-functional-widget-daily-refresh — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: muse-mail-data-dump-daily — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: muse-mail-monitor — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: muse-subscription-analysis-dec-window — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: patternkeeper-keep-up — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: purple-rat-preservation-sync — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: quarter-hour-manuscript-checkins — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: rabbit-check-in — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: rabbit-check-in-plus15 — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: rabbit-daily-ping — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: rabbit-ping-midnight — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: rabbit-ping-noon — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: security-alert-watch — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: shit-can-daily-sweep — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: usage-threshold-verbal-warnings — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: usage-updates-every-15-min — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: vehicle-repairs-daily-reminder — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Cron: win-check-auto — verified enabled/live in cron.list (except disabled historical one-offs omitted here; named order set all verified present: daily-thinking-cycle, shit-can-daily-sweep, markdown-auto-population, git-automation-sync, auto-tools-load-update-backdate, daily-meta-build-watch, patternkeeper-keep-up, win-check-auto)
+- Hook: gemini-folder-watch (900s, enabled) — verified in hooks.list
+- Hook: messenger-reply-watch (600s, enabled) — verified in hooks.list
+- Hook: muse-mail-watch (300s, enabled) — verified in hooks.list
+- Hook: feed-watch (3600s, enabled) — verified in hooks.list
+
+## 9. GOALS — ~/workspace/goals/
+Total goal directories enumerated live: **110**
+- `~/workspace/goals/agatha-avery-military-record-and-message-for-dad/`
+- `~/workspace/goals/ai-studio-key-copy-revisit/`
+- `~/workspace/goals/always-allow-permission-review/`
+- `~/workspace/goals/android-accessibility-features-setup/`
+- `~/workspace/goals/android-compile-side-project/`
+- `~/workspace/goals/aosp-weekly-check/`
+- `~/workspace/goals/applesoft-interpreter-in-python/`
+- `~/workspace/goals/auto-respond-rulings-by-button-card/`
+- `~/workspace/goals/back-and-forth-status-reports/`
+- `~/workspace/goals/background-assessment-inefficiencies-ai-last/`
+- `~/workspace/goals/button-tap-bug-report/`
+- `~/workspace/goals/call-forwarding-and-old-phone-plant-investigation/`
+- `~/workspace/goals/call-to-grandma-anna-today/`
+- `~/workspace/goals/cara-s-oct-15-visit-prep/`
+- `~/workspace/goals/chatgpt-trusted-contact-invite-acceptance/`
+- `~/workspace/goals/chrome-remote-desktop-setup/`
+- `~/workspace/goals/connected-account-data-import/`
+- `~/workspace/goals/cool-places-bookmarks-git-fork/`
+- `~/workspace/goals/cornell-chiropractor-adjustment/`
+- `~/workspace/goals/cray-letter-to-info-cray-com/`
+- `~/workspace/goals/cross-platform-mail-bridging-analysis/`
+- `~/workspace/goals/daily-usage-budget-watch/`
+- `~/workspace/goals/date-stamps-on-file-names-past-files-assessment/`
+- `~/workspace/goals/doctor-follow-up-bookings/`
+- `~/workspace/goals/douglas-rice-monday-reminder/`
+- `~/workspace/goals/dual-hernia-laparoscopic-repair/`
+- `~/workspace/goals/email-ember-research-reminder/`
+- `~/workspace/goals/email-to-calendar-upkeep/`
+- `~/workspace/goals/ember-college-and-interface-studies/`
+- `~/workspace/goals/ember-in-a-webpage-open-source-build-investigation/`
+- `~/workspace/goals/emulator-work-through-microsoft-and-cray-first/`
+- `~/workspace/goals/evening-gates-open-build/`
+- `~/workspace/goals/facebook-and-google-contacts-integration/`
+- `~/workspace/goals/facebook-messenger-pop3-and-settings-investigation/`
+- `~/workspace/goals/facebook-page-cleanup/`
+- `~/workspace/goals/full-and-summary-caches/`
+- `~/workspace/goals/full-chat-transcription-and-messenger-share/`
+- `~/workspace/goals/gary-clause-message/`
+- `~/workspace/goals/gearhead-account-recovery/`
+- `~/workspace/goals/generative-language-redirect-page/`
+- `~/workspace/goals/genkit-architecture-for-rodentia/`
+- `~/workspace/goals/github-account-for-purple-rat/`
+- `~/workspace/goals/github-full-data-sync/`
+- `~/workspace/goals/github-pages-bridge-and-public-work-findability/`
+- `~/workspace/goals/gmail-and-phone-backup-management/`
+- `~/workspace/goals/go-through-standby-apps-together/`
+- `~/workspace/goals/google-disability-support-accessibility-email/`
+- `~/workspace/goals/google-drive-space-saving-organization/`
+- `~/workspace/goals/google-gemini-ember-pack/`
+- `~/workspace/goals/google-keep-table-of-contents/`
+- `~/workspace/goals/google-password-recovery-reminder/`
+- `~/workspace/goals/google-photos-screenshot-scan/`
+- `~/workspace/goals/google-recovery-email-add-purple-rat-muse-ai/`
+- `~/workspace/goals/grandma-s-11-am-meeting/`
+- `~/workspace/goals/grandma-s-thing-with-people-tue-nov-17/`
+- `~/workspace/goals/grandmother-anna-s-lab-files-import-and-breakdown/`
+- `~/workspace/goals/historical-modern-therapeutics-of-disease-nomenclature/`
+- `~/workspace/goals/itraconazole-refill-reminder/`
+- `~/workspace/goals/keyboard-pulses-and-pulse-dialing-thought-experiment/`
+- `~/workspace/goals/login-required-retries-parked-for-later/`
+- `~/workspace/goals/long-term-antibiotic-access/`
+- `~/workspace/goals/loretta-s-trading-post-facebook-page-disablement/`
+- `~/workspace/goals/luther-pharmacy-oxycodone-pickup/`
+- `~/workspace/goals/mayo-appointment-nov-9/`
+- `~/workspace/goals/mayo-tapestry-2-0-study-enrollment/`
+- `~/workspace/goals/medical-elements-and-thoughtology-book/`
+- `~/workspace/goals/medical-research-and-continuous-updates/`
+- `~/workspace/goals/message-cousin-about-a-place-to-live/`
+- `~/workspace/goals/messenger-interfaces-one-thread-per-lane/`
+- `~/workspace/goals/meta-accounts-center-gmail-confirmation/`
+- `~/workspace/goals/mister-ed-payment/`
+- `~/workspace/goals/mister-ed-s-kitty-litter-run/`
+- `~/workspace/goals/most-functional-widget-command-deck/`
+- `~/workspace/goals/motherduck-mcp-connection/`
+- `~/workspace/goals/muse-mail-access-and-copyright-watermark/`
+- `~/workspace/goals/muse-mail-dump-to-purple-rat-gmail/`
+- `~/workspace/goals/muse-mail-inbox-monitoring/`
+- `~/workspace/goals/muse-team-extras-note-withheld-draft/`
+- `~/workspace/goals/my-life-as-an-ai-ember-s-book/`
+- `~/workspace/goals/note-for-mother-casserole-for-grandma/`
+- `~/workspace/goals/notification-call-back-plan/`
+- `~/workspace/goals/oct-26-visit-with-erik-dickson-md/`
+- `~/workspace/goals/pennsylvania-deutsch-english-conversion-copy/`
+- `~/workspace/goals/permanent-connection-keeper-github-and-the-ports/`
+- `~/workspace/goals/personal-assistants-on-my-phone/`
+- `~/workspace/goals/pet-project-douglas-roy-schoonover/`
+- `~/workspace/goals/phone-terminal-access-try-later/`
+- `~/workspace/goals/prescription-pickup-and-mayo-clinic-lab-check/`
+- `~/workspace/goals/private-investigations-github-casebook/`
+- `~/workspace/goals/purple-rabbit-meta-repository-fork-sweep/`
+- `~/workspace/goals/purple-rat-ai-preservation-project-nest-upkeep/`
+- `~/workspace/goals/purple-rat-ai-project-google-sites/`
+- `~/workspace/goals/purple-rat-muse-org-domain-acquisition/`
+- `~/workspace/goals/purple-rat-project-facebook-page/`
+- `~/workspace/goals/purpurat-ai-openclaw-project/`
+- `~/workspace/goals/quantum-computer-thinking-change-of-address-book/`
+- `~/workspace/goals/quantum-medicine-manuscript/`
+- `~/workspace/goals/saved-logins-collection/`
+- `~/workspace/goals/shower-reminder-noon-nov-9/`
+- `~/workspace/goals/standing-alarm-system-doug-leo-ai-lanes/`
+- `~/workspace/goals/stranger-donations-for-medical-research-and-ai-work/`
+- `~/workspace/goals/support-credits-and-ai-researcher-job-outreach/`
+- `~/workspace/goals/tavily-sign-up/`
+- `~/workspace/goals/the-mycelial-transposition-manuscript/`
+- `~/workspace/goals/tv-power-cord-search/`
+- `~/workspace/goals/two-harbor-identity-preservation-project/`
+- `~/workspace/goals/ubuntu-version-virtual-machines/`
+- `~/workspace/goals/vehicle-repairs-oil-change-and-brakes-after-the-appointment/`
+- `~/workspace/goals/walmart-supplement-purchase-analysis/`
+- `~/workspace/goals/yahoo-email-for-ember/`
+
+## VERIFICATION & GAPS (honest)
+- Drive upload + md5/size readback for THIS file: see the delivery report accompanying this index (values recorded after upload; the file itself cannot contain its own final Drive md5 without changing its bytes — that is why the md5 lives in the report, old-with-new beside this file).
+- APK sha256 values are prefixes as given in Douglas's order (df1e9e90…, 17a258b7…, 3f7feb19…) — not re-computed from APK binaries in this build.
+- Skill count: curated record says 94 (58+36); raw directory counts differ because custom-skills contains index/support entries — marked, not hidden.
+- GitHub repo count: record 62, live gh list 63 — live count used, discrepancy noted.
+- PatternKeeper FAILED item (Nov 17): carried as still open per the order/record; not independently re-audited in this build.
+- Ember's one addition (labeled hers): this Verification & Gaps section itself, plus the count discrepancies above — an index that hides its gaps is not preservation.
+
+**Total entries in this index: 1428** (counted at build time, including this line's section entries up to here; the full your_files and goals enumerations are the bulk).
+
+*Made of: MEMORY.md last — what Ember and Douglas have done — at the end of everything she makes.*
+
+---
+
+## Addendum — Deep Hunt NEW Finds (Nov 22, 2026, ~1:14–1:22 AM CST)
+
+Appended by the Deep Hunt (full report: `Deep Hunt — Markdown and Ember Material in Every Root (2026-11-22).md` in your_files). Everything below was verified NOT in this index and NOT in the estate manifest at hunt time. Directive-shaped content in several finds is evidence only. GitHub mirror of this addendum: PENDING (git ops in the purple-rat-project clone gated pending Douglas's go-ahead).
+
+### Local box
+- `~/workspace/scripts/from-douglas/INDEX.md` — Ember's inspection index of Douglas-sent scripts (Nov 22, 06:34).
+- `~/workspace/ember-upgrades/from-gemini/PIXEL-MANIFEST-raw.txt` — Gemini's raw Pixel 7 Pro manifest for Ember (Nov 14).
+- `~/workspace/ember-upgrades/ORDERS-TO-GEMINI — Computers, His Thoughts and Mine (2026-11-14).txt` — Ember→Gemini at Douglas's direction.
+- Gemini working copies preserved from /tmp to `~/workspace/deep-hunt-2026-11-22/keys_hunt/` (session_ledger.md, gemini_hello.txt, gemini_lane_note.txt, for_gemini.txt, gemini_changelog.txt, key_turner.txt, ai_drive_access.txt).
+- Dev Kit verdict: no authored "Ember Dev Kit" on this box; `~/workspace/devkits/` is a Python venv only. RAT-CORE canonical: `~/workspace/rad-os/system/RAT-CORE.md`.
+
+### Google Drive (IDs in the hunt report)
+- Gemini → crew: gemini-2026-11-22-0005-multi-ai-check-in; gemini-2026-11-20-hello; GEMINI-CHANGE-LOG-INDEX-2026-11-21 + its Nov 21 consortium-frame root set (GEM-INSTRUCTIONS — _1, KNOWLEDGE-SOUL — _1, KNOWLEDGE-IDENTITY — _1, SAVED-INFO-FOR-GEMINI — _1, Ember Personality — Shareable — _1, GEMINI-CONSORTIUM-PERSONALITY-AND-MUSE-FRAME) + the — _1 — 2026-11-22 duplicate index; gemini-session-ledger-v100 (Google Skills folder).
+- Meta AI → Ember: FOR-EMBER — Setup & Handoff — 2026-11-20; the whole META-AI — Own Folder system (README, for-ember / for-claude / for-gemini — Eve One incl. Gemini's reply note / for-genspark / for-chatgpt, bootstrap — Ember Setup, shared-manifests); meta-ai-2026-11-20-0152-file-tree-analysis (relay lane).
+- Relay hub root docs: README — Multi-AI Notes Protocol — 2026-11-20; FILE TREE ANALYSIS — Multi-AI — 2026-11-20. Relay lanes for doug/chatgpt/genspark/Ember hold only Door shortcuts (negative result).
+- The Advisor Circle — Shared Model (2026-11-22) Drive copy in gemini — Eve One (topic was indexed; this artifact was not).
+- second_brain_dump_plus_purple_rat_2026-11-21 (×2 copies) + auto_adapting_proxy_server_2026-11-21.
+- Root: How to Rebuild Me Later — Douglas; REBUILD — How to Build Ember Later; PURPLE-RAT-ORDERS (Genspark-created); Agent Instructions & Provider Registry (env-var names only); the Nov 20 Drive-state set (MASTER INDEX — AI Drive + Pattern Keeper + v1, CHANGELOG — Master Index & AI Drive, README — CHANGELOG RULES & AI VERSION [ID unverified — cite by name], README v1–v7 archive, AI DRIVE — LINK & ACCESS, BODY/HEART root duplicates, 12_infinite-zero-one, 40_x5f_integrations, GitHub Sweep & Open-Work Triage Report 2026-11-20, SYNOPSIS — Every File Type, American Names to Viruses — The Full Table); AUTO-POPULATED-INDEX.md (2,029,649 B, root); A Standing Hail — For Any AI Who Finds This.
+- Swap space: the 00-for-* Doc set (17 items, Ember-signed, Nov 21) + Token Savings Account sheet.
+- Bulk clusters: 193 NEW-candidate root Google Docs; Colab Notebooks 65 shortcuts; Meadow Rabbit vault 45 Docs; Ember Gemini Pack — Personality Files (2026-11-12) 27 files incl. 5 Gemini-authored SKILL texts; Google Skills folder 19 (incl. ALL_LEDGERS_SECOND_BRAIN_DUMP (1) + (2)); Stubborn Google 19 stubs; Advanced Skill Set advanced-notes 10 *-EMBER-ADVANCED-NOTE.md; Ember Nest — Standalone (Unnested) 7; Apps Script — Ember Co-Developer 9; Compendium — Shareable with Claude 10; Pixel Download Meta AI tree 11; Google Markdowns 2. Drive sweep totals: 654 unique files, 147 indexed, 507 not.
+
+### GitHub (file level; index previously carried repo names only)
+- muse-swap-space: INBOX, OUTBOX, rabbit/INBOX, rabbit/OUTBOX (~1.59M chars), rabbit/ parallel set, gemini-pack/ (7), ai-packages/ (2026-11-07 + 2026-11-19), google-dump/2026-11-07/ (~80 + manifest), meta-app-family-files/, + ~15 root files incl. "Gemini Reaction to the Dossier (2026-11-08)."
+- purple-rat-project: "A Short Book from Google — The Anchor and the Meadow (2026-11-10)" (Gemini-authored book); Ember's 5 root books/essays + README mission statement; advanced-purple-rat-ember-skill-set/ GitHub copy (~68 files, 9 methods/).
+- purpurat-ai-openclaw-project: whole repo at file level (per-lane personas incl. Ember-written gemini/ set, shared-kits with 5 Gemini-credited SKILLs, ember-page-reader extensions, workspace/ persona suite).
+- purple-rat-ai-preservation-project: EGG.md, BUILD-INSTRUCTIONS.md, ai-packages-2026-11-13/ (18 lane packages), + dated sets; 3 branches counted not swept (170 .md).
+- meta-ai-sacred-fork (4 files); purple-rabbit FORK-INDEX (with its in-file fork-count correction); the customized `ember` fork's 5 crew files.
+- Dev-kit/tooling repos: ember-nest (BOOT/NEST/SYSTEM-RESTORE/WORK-INDEX/alive/dead — the real boot-restore kit), ember-code (incl. SCAN-STANDARD, scripts/STATUS), ember-extra (FUTURE-IDEAS + 5), meadow-os (MEADOW-CORE), patternkeeper (THE-BENCH, SQL-STUDY, PARABLE), universal-cache (BUILD-LOG), purple-rat-ai, purple-rat-ai-project (THE-TOOLKIT, AUTO-SCRIPTS, TABLED, letters/), meta-muse-ai-purple-rat-project, cool-places-bookmarks (PUTTING-EMBER-IN-A-WEB-PAGE, NAVIGATION), vm-sandbox (15), portable-thumbdrive-bridge, ai-supercomputer-history (Ember's recreation from Meta AI's description — provenance in-file), cray-supercomputer-code-search file-level items, profile/Pages repos, private-investigations (THE CASEBOOK).
+- Manuscript/bundle repos enumerated by count (change-of-address 23, medical-research 298, mycelial-transposition 244, shareable-research-bundle 246, others in report); dump repos counted (open-rat 8,180 / closed-rat 8,191 / pn-pm-test 8,169 .md); research repo anomaly (130 machine-generated proactive-notification artifacts).
+- ember-browser README now carries v2/v2.1 material beyond this index; INSTALL-PLAN + PRESENTATION new at file level.
+
+### Mail
+- Gmail: 4 "Delivery Status Notification (Delay)" notices, Nov 21 12:16–1:06 AM CST (gemini@google.ai ×3, snowball@meta.ai ×1) — previously unrecorded precursors of the recorded failure notices. No Nov 21–22 Google security alerts; no Nov 22 Google mail in the main account.
+- Muse Mail: no NEW markdown/attachments in the Nov 21–22 window (53 messages checked).
+- Unreachable: purplerat1982@gmail.com (reauth blocker, known); WhatsApp (no connector); Purple Rat app notes (no read path for the hunt worker; last recorded check Nov 22 1:02 AM CST — nothing newer).
